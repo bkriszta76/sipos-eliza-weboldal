@@ -122,3 +122,7 @@ A színeket, méretképleteket, rádiuszokat, paddingeket és töréspontokat a 
 
 Az űrlapok vizuálisan elkészültek, de a kézbesítés külön következő feladat. A tiltott gombok nem mutatnak hamis sikerüzenetet. Az adatkezelési PDF és a hírlevél működése még nincs ebbe a lépésbe integrálva. Nyilvános Netlify-élesítés nem történt.
 
+
+## Kezelések oldal – jóváhagyott mintához igazított kiegészítés
+
+A kezelésnevek listája félkövér (700), előttük 10px-es halványzöld kör szerepel, nem pipa. A csomagok tartalmi felsorolásában a mintaképen szereplő pipák megmaradnak. A külső csomagkártyák fehérek, vékony zöld kerettel; a középső Anti-Age Plus márkazöld, fehér szöveggel. A középső kártya gombja a felhasználó új mintája szerinti fehér, zöld felirattal; ez helyi kivétel a korábbi általános gombszabály alól. A kezelési szakaszok levélmintája 12%-os fedettségű, a tartalom mögött fut.
