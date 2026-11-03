@@ -1,0 +1,156 @@
+[
+  {
+    "source": "képek\\fooldal\\fooldal-bemutatkozas-eliza-portre.jpg",
+    "web": "képek\\web\\fooldal-bemutatkozas-eliza-portre.webp",
+    "original_dimensions": [
+      624,
+      1663
+    ],
+    "dimensions": [
+      375,
+      1000
+    ],
+    "original_bytes": 448330,
+    "web_bytes": 17716
+  },
+  {
+    "source": "képek\\fooldal\\fooldal-hero-szemelyre-szabott-kezelesek.jpg",
+    "web": "képek\\web\\fooldal-hero-szemelyre-szabott-kezelesek.webp",
+    "original_dimensions": [
+      4096,
+      2295
+    ],
+    "dimensions": [
+      1600,
+      896
+    ],
+    "original_bytes": 3375125,
+    "web_bytes": 47430
+  },
+  {
+    "source": "képek\\fooldal\\fooldal-hirlevel-arcapolasi-kisokos.jpg",
+    "web": "képek\\web\\fooldal-hirlevel-arcapolasi-kisokos.webp",
+    "original_dimensions": [
+      2731,
+      4096
+    ],
+    "dimensions": [
+      667,
+      1000
+    ],
+    "original_bytes": 5111319,
+    "web_bytes": 41846
+  },
+  {
+    "source": "képek\\kozos\\folyamat-01-idopont-egyeztetes.jpg",
+    "web": "képek\\web\\folyamat-01-idopont-egyeztetes.webp",
+    "original_dimensions": [
+      1920,
+      1280
+    ],
+    "dimensions": [
+      720,
+      480
+    ],
+    "original_bytes": 187200,
+    "web_bytes": 29356
+  },
+  {
+    "source": "képek\\kozos\\folyamat-02-diagnosztika-kezelesi-terv.jpg",
+    "web": "képek\\web\\folyamat-02-diagnosztika-kezelesi-terv.webp",
+    "original_dimensions": [
+      2731,
+      4096
+    ],
+    "dimensions": [
+      480,
+      720
+    ],
+    "original_bytes": 6064637,
+    "web_bytes": 44860
+  },
+  {
+    "source": "képek\\kozos\\folyamat-03-kozmetikai-kezeles.jpg",
+    "web": "képek\\web\\folyamat-03-kozmetikai-kezeles.webp",
+    "original_dimensions": [
+      2731,
+      4096
+    ],
+    "dimensions": [
+      480,
+      720
+    ],
+    "original_bytes": 5438699,
+    "web_bytes": 28188
+  },
+  {
+    "source": "képek\\kozos\\folyamat-04-tanacsok-otthonra.jpg",
+    "web": "képek\\web\\folyamat-04-tanacsok-otthonra.webp",
+    "original_dimensions": [
+      1875,
+      2500
+    ],
+    "dimensions": [
+      540,
+      720
+    ],
+    "original_bytes": 1068647,
+    "web_bytes": 53652
+  },
+  {
+    "source": "képek\\kozos\\velemenyek-fruzsi-portre.jpg",
+    "web": "képek\\web\\velemenyek-fruzsi-portre.webp",
+    "original_dimensions": [
+      1920,
+      1317
+    ],
+    "dimensions": [
+      720,
+      494
+    ],
+    "original_bytes": 596522,
+    "web_bytes": 23960
+  },
+  {
+    "source": "képek\\kozos\\velemenyek-magdi-portre.jpg",
+    "web": "képek\\web\\velemenyek-magdi-portre.webp",
+    "original_dimensions": [
+      1920,
+      1280
+    ],
+    "dimensions": [
+      720,
+      480
+    ],
+    "original_bytes": 441716,
+    "web_bytes": 29026
+  },
+  {
+    "source": "képek\\dekoracio\\kozos-leveldekoracio-feher.png",
+    "web": "képek\\web\\kozos-leveldekoracio-feher.webp",
+    "original_dimensions": [
+      1920,
+      1820
+    ],
+    "dimensions": [
+      1000,
+      948
+    ],
+    "original_bytes": 42387,
+    "web_bytes": 10170
+  },
+  {
+    "source": "képek\\dekoracio\\kozos-leveldekoracio-zold.png",
+    "web": "képek\\web\\kozos-leveldekoracio-zold.webp",
+    "original_dimensions": [
+      1920,
+      1820
+    ],
+    "dimensions": [
+      1000,
+      948
+    ],
+    "original_bytes": 290290,
+    "web_bytes": 18100
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "phase": "directions_pending_approval",
+  "phase": "scaffold_complete",
   "brief_approved": true,
   "is_redesign": false,
   "source_url": null,
@@ -9,6 +9,7 @@
   "first_commit": "a4f9173",
   "stop_after_brief_commit": false,
   "direction_count": 1,
-  "plan_approved": false,
-  "brief_approved_on": "2026-11-03"
+  "plan_approved": true,
+  "brief_approved_on": "2026-11-03",
+  "plan_approved_on": "2026-11-03"
 }
