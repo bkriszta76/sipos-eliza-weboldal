@@ -126,3 +126,7 @@ Az űrlapok vizuálisan elkészültek, de a kézbesítés külön következő fe
 ## Kezelések oldal – jóváhagyott mintához igazított kiegészítés
 
 A kezelésnevek listája félkövér (700), előttük 10px-es halványzöld kör szerepel, nem pipa. A csomagok tartalmi felsorolásában a mintaképen szereplő pipák megmaradnak. A külső csomagkártyák fehérek, vékony zöld kerettel; a középső Anti-Age Plus márkazöld, fehér szöveggel. A középső kártya gombja a felhasználó új mintája szerinti fehér, zöld felirattal; ez helyi kivétel a korábbi általános gombszabály alól. A kezelési szakaszok levélmintája 12%-os fedettségű, a tartalom mögött fut.
+
+## Rólunk – mintakép szerinti bemutatkozás és értékek
+
+Az about-story-grid desktopon három oszlop: bemutatkozás, álló (390:620 arányú) portré, szakmai kiemelések. A szakasz márkazöld, minden szövege fehér, a növény jobbra fent helyezkedik el. 1050px alatt két oszlop és alatta a kiemelések, 760px alatt egy oszlop. A values-list külön alcímek nélkül, zöld körben fehér pipával mutatja az öt eredeti érték szövegét. Alatta az Időpontot foglalok gomb az adott oldal kapcsolat szakaszára vezet. A dekoráció balra fent marad, a szöveg fölötti rétegben nincs növény.
