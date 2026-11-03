@@ -1,0 +1,47 @@
+{
+  "directions": [
+    {
+      "id": 1,
+      "name": "Botanikus harmónia",
+      "slug": "botanikus-harmonia",
+      "description": "A saját Figma-drótváz megvalósítása természetes zöld arculattal, Asap betűkkel, saját logóval, osztott portrés nyitószakasszal és növényi motívumokkal.",
+      "rationale": "A felhasználó meglévő, jóváhagyott arculatát és tartalmát követi; egy változat készül a november 3-i leadáshoz.",
+      "palette": {
+        "primary": "#60867B",
+        "secondary": "#D6E5E1",
+        "accent": "#60867B",
+        "bg": "#FFFFFF",
+        "surface": "#D6E5E1",
+        "text": "#011111",
+        "muted": "#62636A"
+      },
+      "fonts": {
+        "heading": {
+          "family": "Asap",
+          "fallback": "system-ui, sans-serif"
+        },
+        "body": {
+          "family": "Asap",
+          "fallback": "system-ui, sans-serif"
+        },
+        "google_fonts_url": "https://fonts.googleapis.com/css2?family=Asap:wght@400;600;700&display=swap"
+      },
+      "contrast_axes": {
+        "density": "balanced",
+        "typography": "Asap, a saját design system címsorskálájával",
+        "hero": "split-screen",
+        "visual_metaphor": "botanikus kozmetikai szalon",
+        "section_rhythm": "váltakozó fehér, halványzöld és zöld"
+      },
+      "prototype_file": "koncepcio-1-botanikus-harmonia.html",
+      "design_reference": "a felhasználó saját Figma-terve"
+    }
+  ],
+  "total": 1,
+  "approval_status": "pending",
+  "constraints": [
+    "A márkaszínek, font és logók rögzítettek.",
+    "Nem készül több koncepció.",
+    "A négyoldalas beadandó teljesítése külön folytatási lépés; a generalas skill első kimenete a főoldal-prototípus."
+  ]
+}

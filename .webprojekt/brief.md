@@ -1,6 +1,6 @@
 # Brand brief – Eliza Beauty Salon
 
-**Állapot:** meglévő anyagokból összefésült változat, felhasználói jóváhagyásra vár.
+**Állapot:** a felhasználó 2026. november 3-án kifejezetten jóváhagyta. Egyetlen változat készül a saját Figma-terv alapján.
 **Készült:** 2026. november 3.
 **Munkamappa:** D:\ai\SiposEliza_weboldal
 **Munkafolyamat:** Vikingo tervezes skill, a már átadott forrásokra támaszkodva.
@@ -208,7 +208,7 @@ Ezek nem akadályozzák a jelenlegi összefésülést és commitot, de a kapcsol
 | Tapasztalati évek | A kapott szöveg 14 évet és 2011-es nyitást említ | A dátumok következetessége; nem számoljuk át észrevétlenül |
 | Ikonok | A két pótolt SVG jelen van | Dupla .svg kiterjesztés rendezése és vizuális ellenőrzés a későbbi megvalósításkor |
 | GitHub és Netlify | A beadás célja ismert | A projektre vonatkozó hozzáférések és tényleges összekapcsolás |
-| Brief jóváhagyása | Ez az összefésült dokumentum elkészült | Felhasználói átolvasás és kifejezett jóváhagyás |
+| Brief jóváhagyása | A felhasználó kifejezetten jóváhagyta 2026. november 3-án | Lezárva; a generalas skill külön megvalósítási tervének jóváhagyása következik |
 
 # Haladási pont és megállás
 
@@ -218,3 +218,8 @@ A felhasználó ebben a munkamenetben két lépést kért:
 2. A meglévő briefanyagok összefésülése a tervezes skill szerint és újabb commit.
 
 A dokumentumot a második commit rögzíti. Ezután a munka megáll a felhasználó kérésére. A brief tartalmi jóváhagyása még nem történt meg, ezért az állapot nem brief_complete. A generalas skill és a weboldalépítés még nem indul el.
+
+
+## Frissítés: jóváhagyás és generálás indítása
+
+A fenti megállás a korábbi munkamenet állapotát rögzíti. A felhasználó ezt követően jóváhagyta a briefet, és egyetlen változat generálását kérte. Leadás: 2026. november 3. A generalas munkafolyamat megkezdődött; a konkrét terv a plan.md fájlban, külön jóváhagyásra várva. A kódgenerálás még nem kezdődött el.

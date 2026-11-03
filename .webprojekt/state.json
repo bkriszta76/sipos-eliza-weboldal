@@ -1,11 +1,14 @@
 {
-  "phase": "brief_pending_approval",
-  "brief_approved": false,
+  "phase": "directions_pending_approval",
+  "brief_approved": true,
   "is_redesign": false,
   "source_url": null,
   "design_source_url": "https://www.figma.com/design/39mFOEzZ54DfzcogL9cxWk/webdesigner_kozmetikus-moadboard-szeru?node-id=0-1",
   "brief_path": ".webprojekt/brief.md",
   "workflow_skill": "tervezes",
   "first_commit": "a4f9173",
-  "stop_after_brief_commit": true
+  "stop_after_brief_commit": false,
+  "direction_count": 1,
+  "plan_approved": false,
+  "brief_approved_on": "2026-11-03"
 }
