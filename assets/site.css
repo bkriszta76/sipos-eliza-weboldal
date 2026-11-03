@@ -81,3 +81,7 @@ body{overflow-x:clip}.wrap{width:min(1260px,87.5%)}.header-inner{min-height:88px
 /* Contact: Figma botanical decorations behind the content. */
 .contact-page-intro{position:relative;overflow:hidden}.contact-page-intro>.wrap{position:relative;z-index:1}.contact-hero-botanical{width:300px;left:-160px;top:-340px;transform:rotate(35deg)}.contact-photo-botanical{width:720px;right:-145px;bottom:-310px;transform:rotate(-55deg);opacity:.12}
 @media(max-width:760px){.contact-hero-botanical{width:220px;left:-125px;top:-280px}.contact-photo-botanical{width:470px;right:-140px;bottom:-210px}}
+
+/* Visible hanging leaf in the contact page upper-left corner. */
+.contact-hero-botanical{width:320px;left:-30px;top:-280px;transform:rotate(155deg)}
+@media(max-width:760px){.contact-hero-botanical{width:210px;left:-25px;top:-195px;transform:rotate(155deg)}}
