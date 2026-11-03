@@ -120,7 +120,7 @@ A szöveges linkek a szöveg színét öröklik. Nem minden szöveg link. A köz
 
 A színeket, méretképleteket, rádiuszokat, paddingeket és töréspontokat a tényleges assets/site.css alapján egyeztettük. A böngészős ellenőrzés eredménye a .webprojekt/aloldalak-ellenorzes.md fájlba kerül.
 
-Az űrlapok vizuálisan elkészültek, de a kézbesítés külön következő feladat. A tiltott gombok nem mutatnak hamis sikerüzenetet. Az adatkezelési PDF és a hírlevél működése még nincs ebbe a lépésbe integrálva. Nyilvános Netlify-élesítés nem történt.
+Az időpontkérő űrlapok kötelező név, e-mail, üzenet és előre ki nem jelölt hozzájárulási mezőt használnak. A Netlify-küldés kódja elkészült; helyi előnézetből nem továbbít adatot. A kézbesítés és az értesítési e-mail megérkezése még nincs igazolva. Az oktatási adatkezelési oldal minden láblécből elérhető. A hírlevél továbbra is tiltott demófunkció. Nyilvános Netlify-élesítés nem történt.
 
 
 ## Kezelések oldal – jóváhagyott mintához igazított kiegészítés
@@ -130,3 +130,7 @@ A kezelésnevek listája félkövér (700), előttük 10px-es halványzöld kör
 ## Rólunk – mintakép szerinti bemutatkozás és értékek
 
 Az about-story-grid desktopon három oszlop: bemutatkozás, álló (390:620 arányú) portré, szakmai kiemelések. A szakasz márkazöld, minden szövege fehér, a növény jobbra fent helyezkedik el. 1050px alatt két oszlop és alatta a kiemelések, 760px alatt egy oszlop. A values-list külön alcímek nélkül, zöld körben fehér pipával mutatja az öt eredeti érték szövegét. Alatta az Időpontot foglalok gomb az adott oldal kapcsolat szakaszára vezet. A dekoráció balra fent marad, a szöveg fölötti rétegben nincs növény.
+
+## Publikálási mappa és űrlapellenőrzés
+
+A Netlify kizárólag a public/ mappa tartalmát tegye közzé. Base directory és Build command: üres; Publish directory: public. A public/ könyvtár a node scripts/build.mjs parancs futtatásával frissül a projektfájlokból. Módosítás után a gyökérben lévő forrást és a frissített public/ példányt együtt kell menteni Gitbe. Belső brief, munkajegyzet, eredeti PDF, eredeti nagy fotó vagy személyes címzett nem kerül a public/ könyvtárba.

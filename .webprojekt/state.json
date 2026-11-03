@@ -1,5 +1,5 @@
 {
-  "phase": "four_pages_built",
+  "phase": "privacy_and_forms_prepared",
   "brief_approved": true,
   "is_redesign": false,
   "source_url": null,
@@ -24,5 +24,16 @@
     "kapcsolat.html"
   ],
   "pages_verified": true,
-  "design_system_synced": true
+  "design_system_synced": true,
+  "privacy_page": "adatkezeles.html",
+  "privacy_mode": "educational_demo_own_test_data",
+  "test_retention_days": 30,
+  "forms_code_ready": true,
+  "email_notification_configured": false,
+  "test_email_received": false,
+  "forms_local_verified": true,
+  "privacy_links_verified": true,
+  "publish_directory": "public",
+  "netlify_build_command": "",
+  "deploy_ready": true
 }
