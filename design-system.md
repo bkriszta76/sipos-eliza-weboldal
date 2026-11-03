@@ -1,117 +1,124 @@
-# Eliza Beauty Salon – saját design system
+# Eliza Beauty Salon – a jóváhagyott főoldal design systeme
 
-Forrás: a saját Figma-terv Arculati tábla része és a `logók/` mappába másolt saját logófájlok. Ellenőrizve: 2026. november 3.
+Állapot: a felhasználó által jóváhagyott főoldalból rögzített megvalósítási rendszer. Frissítve: 2026. november 3.
 
-Figma: https://www.figma.com/design/39mFOEzZ54DfzcogL9cxWk/webdesigner_kozmetikus-moadboard-szeru?node-id=8-4095
+Elsődleges referencia: index.html (a korábbi koncepcio-1-botanikus-harmonia.html ugyanennek a kompatibilis előnézeti másolata). A közös megvalósítás az assets/site.css és assets/site.js fájlokban található. Minden főoldal és aloldal ezt használja, nem tartalmaz saját beágyazott stílusrendszert.
 
-Ez a dokumentum a házi feladat eredeti arculati alapját váltja fel. Az eredeti változat: `design-system.eredeti.md`. A Figma-tábláról leolvasott értékeket és az alábbi megvalósítási javaslatokat külön jelöljük. A mobilméretek és a nem specifikált komponensértékek javaslatok, nem exportált Figma-adatok.
+A korábbi, általános elrendezési javaslatok helyett az alábbi értékek a kész főoldal tényleges CSS-szabályait rögzítik. A Figma és a felhasználó legutóbbi képes korrekciói a vizuális referencia. Az eredeti oktatási arculat változatlanul a design-system.eredeti.md fájlban marad.
 
-## Hangulat
+## 1. Színek
 
-Természetes, nyugodt, tiszta, barátságos és professzionális kozmetikai arculat. Zöld és halványzöld felületek, fehér háttér, növényi motívumok, levegős elrendezés. A címsorok határozott, talpatlan betűkkel jelennek meg.
-
-## Színek
-
-Az arculati táblán feltüntetett HEX-értékek:
-
-| Szerep | Név | HEX | Használat |
-|---|---|---|---|
-| Elsődleges / kiemelt | Zöld | `#60867B` | Márkaszín, logó, kiemelések, szakaszhátterek, gombfelületek |
-| Világos | Halványzöld | `#D6E5E1` | Szakaszháttér, kártya, nyugodt kiemelések |
-| Sötét | Mély sötét | `#011111` | Címsor, erős szöveg, sötét felület |
-| Szöveg | Szürke | `#62636A` | Törzsszöveg, leírás, mezőcímke |
-| Fehér | Fehér | `#FFFFFF` | Oldalháttér, világos kártya |
-
-A zöld SVG-logók kitöltése szintén `#60867B`. A „fekete logo.svg” saját sötét színe `#180802`; ez a logó része, nem az oldal általános szövegszíne. A fájlban külön `#78A79A` nevű réteg is található; az arculati tábla elsődleges színe ettől eltér, ezért ezt nem használjuk automatikusan új alapszínként.
-
-### Kontraszt és használat
-
-A HEX-kódokból számolt kontrasztarányok:
-
-| Szöveg / háttér | Arány | Következmény |
+| Szerep / CSS-változó | Érték | Alkalmazás |
 |---|---|---|
-| `#62636A` / `#FFFFFF` | 5,98:1 | Normál méretű szöveghez megfelelő |
-| `#62636A` / `#D6E5E1` | 4,60:1 | Normál méretű szöveghez megfelelő |
-| `#011111` / `#D6E5E1` | 14,83:1 | Címsorhoz és törzsszöveghez megfelelő |
-| `#FFFFFF` / `#60867B` | 4,04:1 | Normál méretű szöveghez nem éri el a 4,5:1 célt; nagy szöveghez megfelelő |
-| `#011111` / `#60867B` | 4,77:1 | Normál méretű szöveghez megfelelő |
+| --color-brand-primary, --color-brand-accent | #60867B | Fejléc, sötétzöld szakasz, gomb |
+| --color-brand-secondary, --color-brand-surface | #D6E5E1 | Világos szakasz, folyamatkártya, véleménykártya, lábléc |
+| --color-brand-bg | #FFFFFF | Oldalháttér, űrlapmező |
+| --color-brand-text | #011111 | Címsorok és erős szövegek világos háttéren |
+| --color-brand-muted | #62636A | Törzsszöveg világos háttéren |
+| Gomb hover | #4B6A60 | Egérrel rámutatott gomb |
+| Fehér szöveg | #FFFFFF | Márkazöld felületen minden szöveg és gombfelirat |
 
-Felhasználó által jóváhagyott szabály: minden márkazöld/olívazöld felületen fehér szöveg legyen. Minden gomb márkazöld hátteret és fehér feliratot kap; a fenti mért kontrasztérték ettől nem változik.
+A felhasználó kifejezett döntése a márkazöld alapon fehér szöveg. A halványzöld kártyák szövege sötét marad. A fehér / #60867B számított kontrasztja 4,04:1; ez a jóváhagyott paletta ismert tulajdonsága, nem teljes körű akadálymentességi minősítés.
 
-## Betűtípusok
+## 2. Tipográfia
 
-Az arculati tábla minden felsorolt szövegszinthez **Asap** betűtípust ad meg.
+Betűcsalád: Asap, tartalék: system-ui, sans-serif. Betöltött vastagságok: 400, 600, 700. Magyar szöveg, tegező hang, valódi ékezetes karakterek.
 
-- Címsorok: Asap Bold (700), H4: Asap Semibold (600).
-- Törzsszöveg: Asap Regular (400).
-- Alcím és gomb: Asap Bold (700).
-- Gombfelirat: nagybetűs.
-- A saját logót a kész SVG/PNG fájlból használjuk; nem helyettesítjük újragépelt szöveggel.
-
-### Méretskála
-
-| Elem | Betűvastagság | Figma desktopméret | Sormagasság | Javasolt mobilméret |
-|---|---|---|---|---|
-| H1 | Bold 700 | 60px | 130% | 36px |
-| H2 | Bold 700 | 40px | 130% | 30px |
-| H3 | Bold 700 | 28px | 130% | 24px |
-| H4 | Semibold 600 | 24px | 130% | 22px |
-| Alcím | Bold 700 | 20px | 130% | 18px |
-| Body | Regular 400 | 16px | 160% | 16px |
-| Gomb | Bold 700 | 16px | 130% | 16px |
-
-Kis szövegekhez 14px / 150% használható megvalósítási javaslatként. A magyar ékezeteket (ő, ű) a ténylegesen betöltött webfonttal ellenőrizni kell.
-
-## Térközök és elrendezés
-
-A következő értékek az eredeti design system használható elrendezési alapjai, nem a Figma-fájlból kiolvasott méretek:
-
-- 8px alapegység: 8, 16, 24, 32, 48, 64, 96, 128px.
-- Szakaszok függőleges térköze: desktopon 96–128px, mobilon 64px.
-- Tartalom maximális szélessége: 1200px; hosszabb folyószövegé 680px.
-- Mobil oldalsó margó: 20px.
-- A drótvázban szereplő váltakozó fehér, halványzöld és márkazöld szakaszok adják az oldal ritmusát.
-
-## Komponensek
-
-A terv szín- és betűrendszerére épülő megvalósítási javaslatok; a pontos padding, rádiusz és interaktív állapotok még nem ellenőrzött Figma-specifikációk.
-
-- **Elsődleges gomb:** márkazöld háttér, fehér Asap Bold 16px nagybetűs felirat; javasolt belső térköz 16px × 32px, rádiusz 4px. Hoverre aláhúzás vagy jól látható sötét keret.
-- **Másodlagos gomb:** márkazöld háttér és keret, fehér felirat; az elsődleges gombbal azonos méret.
-- **Kártya:** fehér vagy halványzöld háttér, visszafogott lekerekítés és árnyék nélküli megjelenés.
-- **Képek:** természetes kozmetikai és növényi fotók, a Figma-terv képkivágásaihoz igazítva. Az eredeti fájlt őrizzük meg, webes változat külön készülhet.
-- **Űrlapmező:** fehér háttér, szürke keret, sötét beviteli szöveg, látható mezőcímke. Fókuszjelzés: sötét körvonal megfelelő térközzel.
-- **Ikonok:** egyszerű, egységes vonalvezetésű ikonok; világos háttéren funkcionális elemhez sötét szín. A márkazöld dekorációként is használható.
-
-## Logó
-
-Saját, levélmotívumos „ELIZA BEAUTY SALON” logó. A ténylegesen rendelkezésre álló fájlok a `logók/` mappában:
-
-| Változat | SVG | PNG | Használat |
+| Elem | Tényleges méret | Vastagság | Sormagasság |
 |---|---|---|---|
-| Zöld | `zold logo.svg` | `zold logo.png` | Világos háttéren, elsődleges márkajelzés |
-| Sötét | `fekete logo.svg` | `fekete logo.png` | Világos háttéren, sötét logóváltozat |
-| Zöld sávos | `zoldsavos logo.svg` | `zoldsavos logo.png` | Saját zöld háttérrel készített változat |
-| Favicon | `eliza beauty salon favikon 1.svg` | `eliza beauty salon favikon 1.png` | Böngészőikon, külön ellenőrzött méretváltozatokkal |
+| H1 | clamp(38px, 4.6vw, 60px) | 700 | 1.25; a főoldali hero 460px alatt 1.18 |
+| H2 | clamp(30px, 3.2vw, 40px) | 700 | 1.25 |
+| H3 általános | 24px | 700 | 1.25 |
+| Folyamatkártya H3 | 24px desktop, 21px 760px alatt, 22px 460px alatt | 700 | 1.25 |
+| Kicker | 20px, hero mobilon 18px | 600 | 1.4 |
+| Törzsszöveg | 16px | 400 | 1.65 |
+| Gomb | 16px, nagybetűs | 700 | 1.4 |
+| Mezőcímke | 15px | 600 | örökölt |
+| Lábléc oszlopcím | 20px | 700 | 1.25 |
+| Lábléc alsó sor | 12px | 400 | örökölt |
 
-Weben a logóhoz az SVG az elsődleges. Az arányt meg kell tartani, a logót nyújtani nem szabad; a felhasználó kérésére elkészült fehér változat a zöld fejlécben használható. Biztonsági térként legalább a levélmotívum magasságának felét érdemes szabadon hagyni (javaslat).
+H1 betűköz: -0.035em; H2: -0.025em; H3: -0.015em. A véleményblokk címe mobilon 32px. A H4 jelenleg nem önállóan használt szint, ezért nincs hozzá külön megvalósított méretszabály.
 
-Az arculati táblán a faviconhoz 512 × 512px-es használati megjegyzés szerepel; a meglévő SVG 123 × 123-as viewBoxot és beágyazott raszteres képet tartalmaz. Ezért nem tekinthető korlátlanul nagyítható tiszta vektornak. A tervből kinyert 512 × 512px-es forrás elérhető a logók/favicon-figma-512.png fájlban. Fehér logóváltozat: logók/feher logo.svg, az eredeti SVG fehér kitöltésű változata.
+Az aloldali csomagkártyák címe 28px, 1050px alatt 24px; az ár 36px, 1050px alatt 30px. Ezek tartalmi kiegészítések, a közös betű- és színrendszer részei.
 
-## Képek és export állapota
+## 3. Szélességek és térközök
 
-A saját logók nyolc meglévő SVG/PNG exportja a `logók/` mappában található, a tervből kinyert 512px-es faviconforrással együtt. A korábbi `logo_ok` és `képek/logok` mappa az összevonás után megszűnt; az azonos másolatokat tartalomellenőrzés után eltávolítottuk.
+- .wrap: min(1260px, 87.5%), középre rendezve.
+- 760px és az alatti képernyőn .wrap: calc(100% - 40px), vagyis 20px oldalsó margó.
+- Általános .section függőleges padding: clamp(64px, 7vw, 104px).
+- Hero függőleges padding: clamp(80px, 11.11vw, 160px); mobilon 64px.
+- .hero-grid, .about-grid és .content-split: két egyenlő oszlop, clamp(32px, 5.55vw, 80px) köz.
+- A középre rendezett .section-head alatt 52px térköz, mobilon 35px.
+- Főoldali szekciófej max. 760px, véleményeknél 850px; aloldalon legfeljebb 900px. A közvetlen szekciófej szélessége min(900px, 87.5%), mobilon calc(100% - 40px).
+- GYIK lista max. 1046px.
+- Szöveges bekezdések között jellemzően 20–24px.
+- CTA .invitation: 80px függőleges padding, mobilon 64px; szöveg balra, gomb jobbra, mobilon egymás alatt.
 
-A `SiposEliza weboldal.fig` fájl összes beágyazott képe eredeti minőségben a `képek/` mappába került. A `képek/index.html` képes jegyzékként nyitható meg; a `kepleltar.json` az azonosítókat és fájlméreteket tartalmazza. A fájlnevek és a képleltár már a kiolvasott Figma-rétegek és oldalszakaszok alapján készültek. A kicsomagolt eredeti képek nem tartalmazzák a Figma maszkolását és képkivágásait.
+## 4. Közös komponensek
 
+| Elnevezés / CSS-osztály | Szerep és megjelenés |
+|---|---|
+| .site-header, .header-inner | Ragadós, márkazöld fejléc, 88px minimális magasság |
+| .brand | Fehér SVG-logó zöld alapon, 328px szélesség, max. 40%; magasság legfeljebb 48px |
+| .main-nav | Fehér menüpontok, aktív/hover fehér aláhúzás; valódi HTML-oldalakra vezet |
+| .menu-toggle | Fehér mobil menügomb; aria-expanded állapottal |
+| .hero, .hero-grid | Bal oldali bevezető, jobb oldali középre komponált fotó |
+| .button | Olívazöld háttér és keret, fehér felirat, 4px rádiusz; min-height 54px; padding 15px 26px, keskeny mobilon vízszintesen 20px |
+| .button-light, .button-outline | A felhasználó döntése alapján szintén olívazöld/fehér változat; nincs eltérő világos gomb |
+| .text-link | Aláhúzott szöveges hivatkozás, 5px aláhúzási eltolás |
+| .benefit-grid, .benefit | Középre rendezett előnyök, az ikon középen a cím és szöveg fölött |
+| .reviews, .review | Zöld szakasz fehér címmel; halványzöld véleménykártya sötét szöveggel, idézőjel-dekoráció nélkül |
+| .about-grid, .about-photo | Két egyenlő oszlop; nagy, négy finoman kerekített sarkú portré, képfelirat nélkül |
+| .process-grid, .process-step | Négy halványzöld kép–szöveg kártya; padding 20px; nincs lépésszám |
+| .faq, .faq-list | Márkazöld szakasz fehér címmel és szöveggel; natív details/summary nyitás |
+| .form-grid, .field | Közös név/e-mail/üzenet űrlap; látható címkék, fehér mezők |
+| .contact-grid, .contact-map | Balra űrlap, jobbra Figma-térképillusztráció; mobilon egymás alatt |
+| .site-footer, .footer-grid | Halványzöld lábléc: logó/leírás; elérhetőség/nyitvatartás; oldalak; közösségi ikonok |
+| .package-grid, .package | Aloldali csomagok, halványzöld háttér, közös gombok |
+| .values-list | Rólunk oldal értékei, sötét szöveg és márkazöld pipák |
 
+A szöveges linkek a szöveg színét öröklik. Nem minden szöveg link. A közösségi ikonokhoz nincs megadott profilcím, ezért nem vezetnek kitalált profilokra.
 
-## Jóváhagyott főoldali pontosítások (2026-11-03)
+Űrlapmezők: 1px #62636A88 keret, 3px rádiusz, 12px 15px padding, legalább 52px magas beviteli mező; textarea min. 136px. Fókusz: 3px sötét körvonal, 5px eltolás.
 
-- A fejlécben nagyobb, fehér logó szerepel.
-- A portrék középre igazítottak, felirat nélküli képekkel.
-- A növényi motívum az eredeti átlátszó export, a Figma-rétegek transzformációival.
-- Az előnyök ikonjai és szövegei középre rendezettek.
-- A folyamat négy lépése halványzöld kép–szöveg kártyákban jelenik meg, számozás nélkül.
-- A CTA halványzöld, a GYIK márkazöld, fehér betűkkel.
-- Az időpontkérő űrlap mellett a Figma eredeti térképillusztrációja látható.
+## 5. Fotók, logók, növénydekoráció
+
+- A nagy fotók négy sarka egyformán 12px rádiuszú. Nincs félkörös vagy egyetlen sarkon nagy kivágás.
+- A hero és a bemutatkozó képe négyzetes; a portré látható része középre igazított.
+- A vélemények apró portréi 56 × 56px-es körök maradnak.
+- A levélminta eredeti, átlátszó exportjának webes változata: képek/web/figma-leveldekoracio.webp.
+- A halványzöld bemutatkozás és CTA hátterében a növény opacity értéke 0.12.
+- A véleménynél jobbra felül, az előnyöknél balra, a GYIK-nál balra, a láblécben jobbra lent jelenik meg a minta.
+- A dekoráció z-index: 0, a tartalom fölötte; pointer-events: none, alt üres, aria-hidden: true; a szakasz levágja a kifutó részeket.
+- Fejléc: logók/feher logo.svg; lábléc: logók/zold logo.svg; böngészőikon: logók/eliza beauty salon favikon 1.svg.
+- A logó oldalarányát megőrizzük. Nem gépeljük újra és nem nyújtjuk.
+- Az eredeti fotók megmaradnak, a weboldalak WebP-változatokat használnak.
+
+## 6. Mobilos viselkedés
+
+- 1050px alatt a főoldali előnyök és folyamat két oszlopra váltanak; a lábléc két oszlopos.
+- 760px alatt a fejléc hamburgeres menüt használ; a hero, bemutatkozás, tartalmi osztott szakaszok és a kapcsolat egy oszlopba rendeződnek.
+- Mobil logó: 220px, 460px alatt 195px; legfeljebb 62% szélesség.
+- Az előnyök ikonjai és szövegei mobilon is középre rendezettek.
+- 460px alatt a folyamat és a lábléc egy oszlopos.
+- Az aloldali csomagok 760px alatt egy oszloposak; a problémaikonok 1050px alatt kettő, 760px alatt egy oszlopban jelennek meg.
+- Az időpontkérő és a fontos gombok kényelmes szélességűek; nincs vízszintes görgetés.
+- A menü kiválasztás, Escape és a fejlécen kívüli kattintás után bezárul.
+- A reduced-motion beállítás kikapcsolja az animációt és a sima görgetést.
+
+## 7. Fájlok és újrahasználat
+
+- index.html: a jóváhagyott főoldal, már nem koncepcióválasztó.
+- kezelesek.html: kezelések, problémaikonok, csomagok, vélemények, folyamat, közös időpontkérő.
+- rolunk.html: Eliza története, értékek, szalon, CTA, közös időpontkérő.
+- kapcsolat.html: egyetlen kapcsolati űrlap, elérhetőségek, nyitvatartás, térkép, GYIK.
+- assets/site.css: az összes oldal közös stílusforrása.
+- assets/site.js: közös mobilmenü és fejlécviselkedés.
+- A fejléc/lábléc HTML-je statikusan szerepel az oldalakon, közös sablonból készült. A CSS és JS nem ismétlődik oldalanként.
+
+## 8. Ellenőrzés és jelenlegi funkcionális határ
+
+A színeket, méretképleteket, rádiuszokat, paddingeket és töréspontokat a tényleges assets/site.css alapján egyeztettük. A böngészős ellenőrzés eredménye a .webprojekt/aloldalak-ellenorzes.md fájlba kerül.
+
+Az űrlapok vizuálisan elkészültek, de a kézbesítés külön következő feladat. A tiltott gombok nem mutatnak hamis sikerüzenetet. Az adatkezelési PDF és a hírlevél működése még nincs ebbe a lépésbe integrálva. Nyilvános Netlify-élesítés nem történt.
+

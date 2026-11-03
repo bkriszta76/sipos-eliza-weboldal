@@ -188,5 +188,152 @@
     ],
     "web_bytes": 68334,
     "transparent": true
+  },
+  {
+    "source": "képek/kezelesek/kezelesek-belico-arckezelesek.jpg",
+    "web": "képek/web/kezelesek-belico-arckezelesek.webp",
+    "original_dimensions": [
+      2731,
+      4096
+    ],
+    "dimensions": [
+      933,
+      1400
+    ],
+    "web_bytes": 78190
+  },
+  {
+    "source": "képek/kezelesek/kezelesek-eredmenyek-amit-kapsz.jpg",
+    "web": "képek/web/kezelesek-eredmenyek-amit-kapsz.webp",
+    "original_dimensions": [
+      4096,
+      2296
+    ],
+    "dimensions": [
+      1400,
+      785
+    ],
+    "web_bytes": 90756
+  },
+  {
+    "source": "képek/kezelesek/kezelesek-hero-szakertoi-megoldasok.jpg",
+    "web": "képek/web/kezelesek-hero-szakertoi-megoldasok.webp",
+    "original_dimensions": [
+      4096,
+      2296
+    ],
+    "dimensions": [
+      1400,
+      1400
+    ],
+    "web_bytes": 88444,
+    "source_crop": [
+      1050,
+      0,
+      3346,
+      2296
+    ]
+  },
+  {
+    "source": "képek/kezelesek/kezelesek-mesotica-luxus-kezelesek.jpg",
+    "web": "képek/web/kezelesek-mesotica-luxus-kezelesek.webp",
+    "original_dimensions": [
+      4096,
+      2246
+    ],
+    "dimensions": [
+      1400,
+      768
+    ],
+    "web_bytes": 96070
+  },
+  {
+    "source": "képek/kezelesek/kezelesek-tovabbi-kezelesek.jpg",
+    "web": "képek/web/kezelesek-tovabbi-kezelesek.webp",
+    "original_dimensions": [
+      1920,
+      1047
+    ],
+    "dimensions": [
+      1400,
+      763
+    ],
+    "web_bytes": 50426
+  },
+  {
+    "source": "képek/rolunk/rolunk-a-szalon.jpg",
+    "web": "képek/web/rolunk-a-szalon.webp",
+    "original_dimensions": [
+      624,
+      1664
+    ],
+    "dimensions": [
+      624,
+      825
+    ],
+    "web_bytes": 34272,
+    "source_crop": [
+      0,
+      362,
+      624,
+      1187
+    ]
+  },
+  {
+    "source": "képek/rolunk/rolunk-hero-a-borod-egeszsege.jpg",
+    "web": "képek/web/rolunk-hero-a-borod-egeszsege.webp",
+    "original_dimensions": [
+      4096,
+      2296
+    ],
+    "dimensions": [
+      1400,
+      1400
+    ],
+    "web_bytes": 149130,
+    "source_crop": [
+      300,
+      0,
+      2596,
+      2296
+    ]
+  },
+  {
+    "source": "képek/rolunk/rolunk-tortenet-eliza-portre.jpg",
+    "web": "képek/web/rolunk-tortenet-eliza-portre.webp",
+    "original_dimensions": [
+      624,
+      1664
+    ],
+    "dimensions": [
+      624,
+      825
+    ],
+    "web_bytes": 34804,
+    "source_crop": [
+      0,
+      362,
+      624,
+      1187
+    ]
+  },
+  {
+    "source": "képek/kapcsolat/kapcsolat-hero.jpg",
+    "web": "képek/web/kapcsolat-hero.webp",
+    "original_dimensions": [
+      2731,
+      4096
+    ],
+    "dimensions": [
+      1400,
+      1400
+    ],
+    "web_bytes": 138286,
+    "source_crop": [
+      0,
+      850,
+      2731,
+      3581
+    ]
   }
 ]

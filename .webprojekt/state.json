@@ -1,5 +1,5 @@
 {
-  "phase": "prototypes_complete",
+  "phase": "four_pages_built",
   "brief_approved": true,
   "is_redesign": false,
   "source_url": null,
@@ -14,7 +14,15 @@
   "plan_approved_on": "2026-11-03",
   "prototype_file": "koncepcio-1-botanikus-harmonia.html",
   "homepage_verified": true,
-  "homepage_approved": false,
+  "homepage_approved": true,
   "public_deployment": false,
-  "form_delivery_enabled": false
+  "form_delivery_enabled": false,
+  "pages": [
+    "index.html",
+    "kezelesek.html",
+    "rolunk.html",
+    "kapcsolat.html"
+  ],
+  "pages_verified": true,
+  "design_system_synced": true
 }
