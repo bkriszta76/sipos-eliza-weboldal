@@ -49,3 +49,7 @@ body{overflow-x:clip}.wrap{width:min(1260px,87.5%)}.header-inner{min-height:88px
 .treatment-leaf.mesotica-leaf{right:-115px;top:-260px;transform:rotate(-65deg)}
 .treatment-leaf.additional-leaf{left:-110px;bottom:-280px;transform:rotate(35deg)}
 @media(max-width:760px){.package{padding:28px 24px}.package h3{font-size:22px}.package .price{font-size:30px}.treatment-leaf{width:420px}.treatment-leaf.belico-leaf{left:-155px;top:-160px}.treatment-leaf.mesotica-leaf{right:-130px;top:-190px}.treatment-leaf.additional-leaf{left:-120px;bottom:-170px}}
+
+/* Keep botanical decorations clear of review and benefit text. */
+.reviews-botanical{right:-185px;top:-190px}.benefits-botanical{left:-215px;top:-185px}
+@media(max-width:760px){.reviews-botanical{right:-145px;top:-155px}.benefits-botanical{left:-150px;top:-125px}}
