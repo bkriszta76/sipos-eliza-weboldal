@@ -2,7 +2,7 @@
 
 ## Állapot
 
-A felhasználó 2026. november 3-án kifejezetten jóváhagyta a briefet, és egyetlen változat generálását kérte. A generálás skill külön tervjóváhagyási lépése még hátravan. Ez a dokumentum a jóváhagyásra bemutatott konkrét terv.
+A felhasználó 2026. november 3-án kifejezetten jóváhagyta a briefet, és egyetlen változat generálását kérte. A felhasználó a külön megvalósítási tervet is jóváhagyta: „Mehet a főoldalnak az elkészítése.” A főoldal-prototípus elkészítése megkezdődött.
 
 ## Brand brief összefoglaló
 

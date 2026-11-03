@@ -7,11 +7,17 @@
       1663
     ],
     "dimensions": [
-      375,
-      1000
+      624,
+      825
     ],
     "original_bytes": 448330,
-    "web_bytes": 17716
+    "web_bytes": 36632,
+    "source_crop": [
+      0,
+      362,
+      624,
+      1187
+    ]
   },
   {
     "source": "képek\\fooldal\\fooldal-hero-szemelyre-szabott-kezelesek.jpg",
@@ -133,11 +139,18 @@
       1820
     ],
     "dimensions": [
-      1000,
-      948
+      669,
+      790
     ],
     "original_bytes": 42387,
-    "web_bytes": 10170
+    "web_bytes": 28374,
+    "figma_mask_source": "képek/dekoracio/kozos-leveldekoracio-feher.png",
+    "source_crop": [
+      1251,
+      1030,
+      1920,
+      1820
+    ]
   },
   {
     "source": "képek\\dekoracio\\kozos-leveldekoracio-zold.png",
@@ -147,10 +160,17 @@
       1820
     ],
     "dimensions": [
-      1000,
-      948
+      669,
+      790
     ],
     "original_bytes": 290290,
-    "web_bytes": 18100
+    "web_bytes": 73636,
+    "figma_mask_source": "képek/dekoracio/kozos-leveldekoracio-feher.png",
+    "source_crop": [
+      1251,
+      1030,
+      1920,
+      1820
+    ]
   }
 ]

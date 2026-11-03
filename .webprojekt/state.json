@@ -1,5 +1,5 @@
 {
-  "phase": "scaffold_complete",
+  "phase": "prototypes_complete",
   "brief_approved": true,
   "is_redesign": false,
   "source_url": null,
@@ -11,5 +11,10 @@
   "direction_count": 1,
   "plan_approved": true,
   "brief_approved_on": "2026-11-03",
-  "plan_approved_on": "2026-11-03"
+  "plan_approved_on": "2026-11-03",
+  "prototype_file": "koncepcio-1-botanikus-harmonia.html",
+  "homepage_verified": true,
+  "homepage_approved": false,
+  "public_deployment": false,
+  "form_delivery_enabled": false
 }
