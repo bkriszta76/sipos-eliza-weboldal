@@ -36,7 +36,7 @@ A HEX-kódokból számolt kontrasztarányok:
 | `#FFFFFF` / `#60867B` | 4,04:1 | Normál méretű szöveghez nem éri el a 4,5:1 célt; nagy szöveghez megfelelő |
 | `#011111` / `#60867B` | 4,77:1 | Normál méretű szöveghez megfelelő |
 
-Megvalósítási javaslat: a 16px-es gombfelirat legyen sötét a márkazöldön. Ha a Figma szerinti fehér feliratot szeretnénk megtartani, külön, ellenőrzött sötétebb gombszínt kell meghatározni. A márkaszínt emiatt nem változtatjuk meg észrevétlenül.
+Felhasználó által jóváhagyott szabály: minden márkazöld/olívazöld felületen fehér szöveg legyen. Minden gomb márkazöld hátteret és fehér feliratot kap; a fenti mért kontrasztérték ettől nem változik.
 
 ## Betűtípusok
 
@@ -76,8 +76,8 @@ A következő értékek az eredeti design system használható elrendezési alap
 
 A terv szín- és betűrendszerére épülő megvalósítási javaslatok; a pontos padding, rádiusz és interaktív állapotok még nem ellenőrzött Figma-specifikációk.
 
-- **Elsődleges gomb:** márkazöld háttér, sötét Asap Bold 16px nagybetűs felirat; javasolt belső térköz 16px × 32px, rádiusz 4px. Hoverre aláhúzás vagy jól látható sötét keret.
-- **Másodlagos gomb:** fehér vagy átlátszó háttér, márkazöld keret, sötét felirat; az elsődleges gombbal azonos méret.
+- **Elsődleges gomb:** márkazöld háttér, fehér Asap Bold 16px nagybetűs felirat; javasolt belső térköz 16px × 32px, rádiusz 4px. Hoverre aláhúzás vagy jól látható sötét keret.
+- **Másodlagos gomb:** márkazöld háttér és keret, fehér felirat; az elsődleges gombbal azonos méret.
 - **Kártya:** fehér vagy halványzöld háttér, visszafogott lekerekítés és árnyék nélküli megjelenés.
 - **Képek:** természetes kozmetikai és növényi fotók, a Figma-terv képkivágásaihoz igazítva. Az eredeti fájlt őrizzük meg, webes változat külön készülhet.
 - **Űrlapmező:** fehér háttér, szürke keret, sötét beviteli szöveg, látható mezőcímke. Fókuszjelzés: sötét körvonal megfelelő térközzel.
@@ -94,9 +94,9 @@ Saját, levélmotívumos „ELIZA BEAUTY SALON” logó. A ténylegesen rendelke
 | Zöld sávos | `zoldsavos logo.svg` | `zoldsavos logo.png` | Saját zöld háttérrel készített változat |
 | Favicon | `eliza beauty salon favikon 1.svg` | `eliza beauty salon favikon 1.png` | Böngészőikon, külön ellenőrzött méretváltozatokkal |
 
-Weben a logóhoz az SVG az elsődleges. Az arányt meg kell tartani, a logót nyújtani vagy újraszínezni nem szabad. Biztonsági térként legalább a levélmotívum magasságának felét érdemes szabadon hagyni (javaslat).
+Weben a logóhoz az SVG az elsődleges. Az arányt meg kell tartani, a logót nyújtani nem szabad; a felhasználó kérésére elkészült fehér változat a zöld fejlécben használható. Biztonsági térként legalább a levélmotívum magasságának felét érdemes szabadon hagyni (javaslat).
 
-Az arculati táblán a faviconhoz 512 × 512px-es használati megjegyzés szerepel; a meglévő SVG 123 × 123-as viewBoxot és beágyazott raszteres képet tartalmaz. Ezért nem tekinthető korlátlanul nagyítható tiszta vektornak. A tervből kinyert 512 × 512px-es forrás elérhető a logók/favicon-figma-512.png fájlban. Fehér logóváltozat jelenleg nincs a helyi készletben.
+Az arculati táblán a faviconhoz 512 × 512px-es használati megjegyzés szerepel; a meglévő SVG 123 × 123-as viewBoxot és beágyazott raszteres képet tartalmaz. Ezért nem tekinthető korlátlanul nagyítható tiszta vektornak. A tervből kinyert 512 × 512px-es forrás elérhető a logók/favicon-figma-512.png fájlban. Fehér logóváltozat: logók/feher logo.svg, az eredeti SVG fehér kitöltésű változata.
 
 ## Képek és export állapota
 
@@ -105,3 +105,13 @@ A saját logók nyolc meglévő SVG/PNG exportja a `logók/` mappában találhat
 A `SiposEliza weboldal.fig` fájl összes beágyazott képe eredeti minőségben a `képek/` mappába került. A `képek/index.html` képes jegyzékként nyitható meg; a `kepleltar.json` az azonosítókat és fájlméreteket tartalmazza. A fájlnevek és a képleltár már a kiolvasott Figma-rétegek és oldalszakaszok alapján készültek. A kicsomagolt eredeti képek nem tartalmazzák a Figma maszkolását és képkivágásait.
 
 
+
+## Jóváhagyott főoldali pontosítások (2026-11-03)
+
+- A fejlécben nagyobb, fehér logó szerepel.
+- A portrék középre igazítottak, felirat nélküli képekkel.
+- A növényi motívum az eredeti átlátszó export, a Figma-rétegek transzformációival.
+- Az előnyök ikonjai és szövegei középre rendezettek.
+- A folyamat négy lépése halványzöld kép–szöveg kártyákban jelenik meg, számozás nélkül.
+- A CTA halványzöld, a GYIK márkazöld, fehér betűkkel.
+- Az időpontkérő űrlap mellett a Figma eredeti térképillusztrációja látható.

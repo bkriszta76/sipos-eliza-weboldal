@@ -27,11 +27,17 @@
       2295
     ],
     "dimensions": [
-      1600,
-      896
+      1400,
+      1463
     ],
     "original_bytes": 3375125,
-    "web_bytes": 47430
+    "web_bytes": 79154,
+    "source_crop": [
+      1900,
+      0,
+      4096,
+      2295
+    ]
   },
   {
     "source": "képek\\fooldal\\fooldal-hirlevel-arcapolasi-kisokos.jpg",
@@ -172,5 +178,15 @@
       1920,
       1820
     ]
+  },
+  {
+    "source": "képek/dekoracio/Clip path group.png",
+    "web": "képek/web/figma-leveldekoracio.webp",
+    "dimensions": [
+      452,
+      553
+    ],
+    "web_bytes": 68334,
+    "transparent": true
   }
 ]
