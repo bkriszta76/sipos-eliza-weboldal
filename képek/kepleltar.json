@@ -1,0 +1,2593 @@
+[
+  {
+    "file": "képek/forraskepek/forras-kozmetikumok-krem-es-cseppentos-uveg.jpg",
+    "figmaImageId": "e82a8aec2c097b2381c272d2633fec12ff8574c5",
+    "bytes": 47875,
+    "format": "jpg",
+    "oldFile": "képek/figma/e82a8aec2c097b2381c272d2633fec12ff8574c5.jpg",
+    "kind": "eredeti",
+    "sha256": "84a0a129ee6f664335f45f79fb07807e17f426acc4af917bda2832af131d873a",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 1
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-bambusz-eszkozok-es-termeszetes-alapanyagok.jpg",
+    "figmaImageId": "b06a61fb322e3d53c9bc53bd9c7e2fd9147290ec",
+    "bytes": 891424,
+    "format": "jpg",
+    "oldFile": "képek/figma/b06a61fb322e3d53c9bc53bd9c7e2fd9147290ec.jpg",
+    "kind": "eredeti",
+    "sha256": "d2e9b5ba65c8938c9f87c60301e30a559600988093efcbb1efa2f29e51e0f81c",
+    "usages": [
+      {
+        "figmaNodeId": "1:7",
+        "figmaPath": "unsplash:LrYlDNZD4qU",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-szerum-feher-polcon-elonezet.png",
+    "figmaImageId": "ff2c2c34b4e7d0b4b72046c917734c2607023c61",
+    "bytes": 149945,
+    "format": "png",
+    "oldFile": "képek/figma/ff2c2c34b4e7d0b4b72046c917734c2607023c61.png",
+    "kind": "elonezet",
+    "sha256": "798cfcf5f9ad1e6760cf6cd06195cb2662beae44ba792793bafe3b9635ca5c7a",
+    "usages": [
+      {
+        "figmaNodeId": "1:8",
+        "figmaPath": "unsplash:0ABufdkXgPI",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-sotet-kremtegelyek-levelekkel.jpg",
+    "figmaImageId": "997a739246c5d0b2f04e851788b8f6ae18c5ec50",
+    "bytes": 207218,
+    "format": "jpg",
+    "oldFile": "képek/figma/997a739246c5d0b2f04e851788b8f6ae18c5ec50.jpg",
+    "kind": "eredeti",
+    "sha256": "d43b4b71f56b7ad3da8245f6d9bd14036c46eb267c560e50517ee9d96729cd2a",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 16
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 17
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-arckezeles-a-szalonban.jpg",
+    "figmaImageId": "80229486f30817f65e2c0ccb58edf85baad5c98d",
+    "bytes": 366501,
+    "format": "jpg",
+    "oldFile": "képek/figma/80229486f30817f65e2c0ccb58edf85baad5c98d.jpg",
+    "kind": "eredeti",
+    "sha256": "636b0ba4ec8c608127a805e9b5090df84ea39f4a790bc42ace3275aba805185b",
+    "usages": [
+      {
+        "figmaNodeId": "1:12",
+        "figmaPath": "unsplash:J6Hg_YH2tFk",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/kezelesek/kezelesek-belico-arckezelesek.jpg",
+    "figmaImageId": "3f9f11cd9ee44fffb1d4445123afcbcaf6cf65b9",
+    "bytes": 5193383,
+    "format": "jpg",
+    "oldFile": "képek/figma/3f9f11cd9ee44fffb1d4445123afcbcaf6cf65b9.jpg",
+    "kind": "eredeti",
+    "sha256": "efd408aba8a2b2b4f7e7d812297e8e8a172767f938d1bf8929bf2ed369ce754d",
+    "usages": [
+      {
+        "figmaNodeId": "8:1426",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 2 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-naturkozmetikumok-es-novenyi-alapanyagok.jpg",
+    "figmaImageId": "359f461e4e3abdf820e4c7722b8d7fdaf6078b9e",
+    "bytes": 96520,
+    "format": "jpg",
+    "oldFile": "képek/figma/359f461e4e3abdf820e4c7722b8d7fdaf6078b9e.jpg",
+    "kind": "eredeti",
+    "sha256": "1f37abe02f9ed3407cb49101fcb90899a3df704f08b1a4f041f0d0ced7e629a1",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 2
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 3
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-noi-arc-termeszetes-fenyben.jpg",
+    "figmaImageId": "5baeaee6617ad97e53ea4f64c2c8feb673147ba4",
+    "bytes": 376881,
+    "format": "jpg",
+    "oldFile": "képek/figma/5baeaee6617ad97e53ea4f64c2c8feb673147ba4.jpg",
+    "kind": "eredeti",
+    "sha256": "641653f6a8e9cb1258bd2d6d456eeca0e8d4d3a170946f0b8f8ed2663a6ce935",
+    "usages": [
+      {
+        "figmaNodeId": "1:11",
+        "figmaPath": "unsplash:rWwuf8yKw4Y",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-szerum-feher-polcon.jpg",
+    "figmaImageId": "2e61f763f9c93f2dd2ffe359fc571d2d84fa29f0",
+    "bytes": 1257941,
+    "format": "jpg",
+    "oldFile": "képek/figma/2e61f763f9c93f2dd2ffe359fc571d2d84fa29f0.jpg",
+    "kind": "eredeti",
+    "sha256": "7e2c5254e42a8ea7cf98c1449181bbba3b9b5ee6cff8c04b002154605b842458",
+    "usages": [
+      {
+        "figmaNodeId": "1:8",
+        "figmaPath": "unsplash:0ABufdkXgPI",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-kozmetikai-ampullak-levelen-elonezet.png",
+    "figmaImageId": "b59e5a809c928b2b27d4abb8c995732dcdc72955",
+    "bytes": 157891,
+    "format": "png",
+    "oldFile": "képek/figma/b59e5a809c928b2b27d4abb8c995732dcdc72955.png",
+    "kind": "elonezet",
+    "sha256": "c4358759acdf261cff67eec7474ea4bedb44b81987c43b779b4810f6b391f68f",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 10
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 11
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-arckezeles-a-szalonban-elonezet.png",
+    "figmaImageId": "afe957c30d56400560db2babacdf83f21df399c1",
+    "bytes": 121703,
+    "format": "png",
+    "oldFile": "képek/figma/afe957c30d56400560db2babacdf83f21df399c1.png",
+    "kind": "elonezet",
+    "sha256": "c2828fa24433114d65962140624ae714455cc5d555bb7a41b81420f1d3abbc47",
+    "usages": [
+      {
+        "figmaNodeId": "1:12",
+        "figmaPath": "unsplash:J6Hg_YH2tFk",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-noi-arc-termeszetes-fenyben-elonezet.png",
+    "figmaImageId": "6a4d9b7be35df8c32f296fdae5a3f4929f87ce5b",
+    "bytes": 120248,
+    "format": "png",
+    "oldFile": "képek/figma/6a4d9b7be35df8c32f296fdae5a3f4929f87ce5b.png",
+    "kind": "elonezet",
+    "sha256": "89a7305d176d43cdf97dff37bb84f72daecf9ff8e6a0c23c60acea839be48b9b",
+    "usages": [
+      {
+        "figmaNodeId": "1:11",
+        "figmaPath": "unsplash:rWwuf8yKw4Y",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/kozos/folyamat-04-tanacsok-otthonra-elonezet.png",
+    "figmaImageId": "d840768fe807b010ff9a8cc6635ea9e437e7ceca",
+    "bytes": 166666,
+    "format": "png",
+    "oldFile": "képek/figma/d840768fe807b010ff9a8cc6635ea9e437e7ceca.png",
+    "kind": "elonezet",
+    "sha256": "b33b07c353f0ec11a3cf5fd53fd6519fa7f69de3a254a31bb4fea64adc0bb2bf",
+    "usages": [
+      {
+        "figmaNodeId": "1:10",
+        "figmaPath": "unsplash:JCXhcPZqJC0",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:504",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 31 / Dobozok 3 / Doboz 4 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1681",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kártya 31 / Dobozok 3 / Doboz 4 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4466",
+        "figmaPath": "Moodboard / unsplash:JCXhcPZqJC0",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/kozos/folyamat-04-tanacsok-otthonra.jpg",
+    "figmaImageId": "418fa21db580f108683be9309449426f77bd37e3",
+    "bytes": 1068647,
+    "format": "jpg",
+    "oldFile": "képek/figma/418fa21db580f108683be9309449426f77bd37e3.jpg",
+    "kind": "eredeti",
+    "sha256": "77dacc9b7c3f75fb96cdc4c55ddf30fa18d2d58f15f30641898ba60a3c61a1bc",
+    "usages": [
+      {
+        "figmaNodeId": "1:10",
+        "figmaPath": "unsplash:JCXhcPZqJC0",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:504",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 31 / Dobozok 3 / Doboz 4 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1681",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kártya 31 / Dobozok 3 / Doboz 4 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4466",
+        "figmaPath": "Moodboard / unsplash:JCXhcPZqJC0",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/ikonok/kezelesek-fako-bor-pigmentfoltok-ikon.png",
+    "figmaImageId": "61dbb94906c6f7192824a80f07f7634523189a87",
+    "bytes": 18808,
+    "format": "png",
+    "oldFile": "képek/figma/61dbb94906c6f7192824a80f07f7634523189a87.png",
+    "kind": "eredeti",
+    "sha256": "f4ee41fc46ee9f9b2fde513b586e2726343903c6fe738c477d30be4bc62a431e",
+    "usages": [
+      {
+        "figmaNodeId": "8:1408",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kártya 2 / Dobozok / Doboz 3 / reduction 1",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1408",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kártya 2 / Dobozok / Doboz 3 / reduction 1",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-krem-es-gel-allagok-03-elonezet.png",
+    "figmaImageId": "1a278515c8c2d9c68e5f5f900fd0386a0b6d5ec7",
+    "bytes": 137815,
+    "format": "png",
+    "oldFile": "képek/figma/1a278515c8c2d9c68e5f5f900fd0386a0b6d5ec7.png",
+    "kind": "elonezet",
+    "sha256": "81cc4c3502649883db52479086ca9032d8ea3ef4910857e1b410cebeabe7b61b",
+    "usages": [
+      {
+        "figmaNodeId": "1:15",
+        "figmaPath": "unsplash:GeG4U-lAF10",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/kozos/velemenyek-magdi-portre.jpg",
+    "figmaImageId": "4371de97810aeb7e331c412e6b4486471770aa13",
+    "bytes": 441716,
+    "format": "jpg",
+    "oldFile": "képek/figma/4371de97810aeb7e331c412e6b4486471770aa13.jpg",
+    "kind": "eredeti",
+    "sha256": "df468b4af3ada606c4d7c13e7118c850b7514ce37617a4b58522fa338da439d3",
+    "usages": [
+      {
+        "figmaNodeId": "8:418",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Visszajelzés 3 / Frame 46959 / Doboz / Kép",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1644",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Visszajelzés 3 / Frame 46959 / Doboz / Kép",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/moodboard/moodboard-zold-level-textura-elonezet.jpg",
+    "figmaImageId": "30b48032497f91680f0d14711ef476f9fae5b2a7",
+    "bytes": 304173,
+    "format": "jpg",
+    "oldFile": "képek/figma/30b48032497f91680f0d14711ef476f9fae5b2a7.jpg",
+    "kind": "elonezet",
+    "sha256": "7821da3c72291a5657b9bb9286cd9d5becfac074a231448abc684615a0e8d1a0",
+    "usages": [
+      {
+        "figmaNodeId": "8:4439",
+        "figmaPath": "Moodboard / Moodboard / Rectangle 40",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/kozos/folyamat-02-diagnosztika-kezelesi-terv-elonezet.jpg",
+    "figmaImageId": "0d654c894acde6be68713175a69913a34977f886",
+    "bytes": 194801,
+    "format": "jpg",
+    "oldFile": "képek/figma/0d654c894acde6be68713175a69913a34977f886.jpg",
+    "kind": "elonezet",
+    "sha256": "ab2ac171a3a6da7f2a5bb7c33047e354140e80ed79cc560f01d57a87e9baf166",
+    "usages": [
+      {
+        "figmaNodeId": "8:496",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 31 / Dobozok 3 / Doboz 2 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1673",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kártya 31 / Dobozok 3 / Doboz 2 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-pampafu-elonezet.png",
+    "figmaImageId": "0817d936e8239b95aefdbe5d4b5913ce74a1b402",
+    "bytes": 147845,
+    "format": "png",
+    "oldFile": "képek/figma/0817d936e8239b95aefdbe5d4b5913ce74a1b402.png",
+    "kind": "elonezet",
+    "sha256": "0850f5370246f09d7237c7231cc40fcfb6e914f16f2cd3e5bd8af2415b1cf1eb",
+    "usages": [
+      {
+        "figmaNodeId": "1:16",
+        "figmaPath": "unsplash:GlKxYQRbxPo",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-szerumos-uveg-es-fonott-kosarak.jpg",
+    "figmaImageId": "e1612b73f1cf931df1fc7e608e3ab26da4c668c5",
+    "bytes": 260383,
+    "format": "jpg",
+    "oldFile": "képek/figma/e1612b73f1cf931df1fc7e608e3ab26da4c668c5.jpg",
+    "kind": "eredeti",
+    "sha256": "97eb68420fafd2ed1d0c24253d1ead8f93e3af32350e9e81624ca7415ce5a3a8",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 4
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 5
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/dekoracio/kozos-leveldekoracio-feher-elonezet.png",
+    "figmaImageId": "d1309f2a9b2fe23ab651e4aafc77485e34c1e904",
+    "bytes": 20878,
+    "format": "png",
+    "oldFile": "képek/figma/d1309f2a9b2fe23ab651e4aafc77485e34c1e904.png",
+    "kind": "elonezet",
+    "sha256": "3b67e185255634be5384159c36546d13d67bdf594446d75140f5ff3bae01ae3f",
+    "usages": [
+      {
+        "figmaNodeId": "8:403",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Hero 1 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:435",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Visszajelzés 3 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:484",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:516",
+        "figmaPath": "Drótváz és Typframe / Főoldal / CTA 4 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:591",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kapcsolat 9 / Tartalom / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1242",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1254",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1266",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1388",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 1 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1435",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 2 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1459",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 3 / Tartalom / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1490",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 4 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1551",
+        "figmaPath": "Drótváz és Typframe / Kezelések / CTA 4 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1661",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Visszajelzés 3 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2342",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Lábléc / Tartalom / Doboz 3 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2473",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Hero 1 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2508",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Osztott szakasz 8 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2541",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Egyoszlopos 11 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2560",
+        "figmaPath": "Drótváz és Typframe / Rólunk / CTA 4 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:3236",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Lábléc / Tartalom / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:3373",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Kapcsolat 9 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:3925",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / GYIK 3 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4078",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Lábléc / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4090",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4459",
+        "figmaPath": "Moodboard / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-naturkozmetikumok-es-novenyi-alapanyagok-elonezet.png",
+    "figmaImageId": "f4ce490be0b70e12dadbd90737821ed292a368f6",
+    "bytes": 104147,
+    "format": "png",
+    "oldFile": "képek/figma/f4ce490be0b70e12dadbd90737821ed292a368f6.png",
+    "kind": "elonezet",
+    "sha256": "c5c98ef0d2f1786335181318b66845ad9d5464810414dc4266126b8b272b5239",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 2
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 3
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-szerumos-uveg-es-fonott-kosarak-elonezet.png",
+    "figmaImageId": "c71fde99dd45d7eeda0233cc5f535a70ea5c1d17",
+    "bytes": 347978,
+    "format": "png",
+    "oldFile": "képek/figma/c71fde99dd45d7eeda0233cc5f535a70ea5c1d17.png",
+    "kind": "elonezet",
+    "sha256": "6cf9adbaa175e9ecc963a6bff47b2528d2e364fb68a705b95443ab317214399a",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 4
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 5
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-szerumos-uveg-szarazviragokkal.jpg",
+    "figmaImageId": "ac54eacd94e582a353ca8156f07dda33a4c701de",
+    "bytes": 105792,
+    "format": "jpg",
+    "oldFile": "képek/figma/ac54eacd94e582a353ca8156f07dda33a4c701de.jpg",
+    "kind": "eredeti",
+    "sha256": "1a1ec357465e9186c9ec2f4e72f7c7b4527e1eb2e4277949df07c97524488423",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 6
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 7
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-noi-portre-kek-ingben-elonezet.png",
+    "figmaImageId": "fef11e9463d9b025c675a172c370186bfba56115",
+    "bytes": 132163,
+    "format": "png",
+    "oldFile": "képek/figma/fef11e9463d9b025c675a172c370186bfba56115.png",
+    "kind": "elonezet",
+    "sha256": "00a5283d61eabd2b04c601893c2457d2c1b3ec76cb5a2c0b7059a9f1e7d7eb86",
+    "usages": [
+      {
+        "figmaNodeId": "1:14",
+        "figmaPath": "unsplash:UFd_bRmLn1k",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-barna-kozmetikai-uveg-levelekkel.jpg",
+    "figmaImageId": "e5faddc770a9539634299dd196996aa9490dec47",
+    "bytes": 99472,
+    "format": "jpg",
+    "oldFile": "képek/figma/e5faddc770a9539634299dd196996aa9490dec47.jpg",
+    "kind": "eredeti",
+    "sha256": "8e58366935500f3aa2bdef9588e3a77b3a77d9063a0b99dd8bb48b954babc555",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 8
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 9
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-noi-profil-levelekkel-elonezet.png",
+    "figmaImageId": "e9a5ffa123e00228350f68ca9dcebdafcd37e1ad",
+    "bytes": 177557,
+    "format": "png",
+    "oldFile": "képek/figma/e9a5ffa123e00228350f68ca9dcebdafcd37e1ad.png",
+    "kind": "elonezet",
+    "sha256": "c4e979df797716aaeb7d0127924c79fcbebc7f1268c25010940f00a3cc5a2e0f",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 12
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 13
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-krem-es-gel-allagok-01.jpg",
+    "figmaImageId": "bf20ec1fa06f86ee7fa359cfa2aa9eb1f6d4ec6b",
+    "bytes": 318884,
+    "format": "jpg",
+    "oldFile": "képek/figma/bf20ec1fa06f86ee7fa359cfa2aa9eb1f6d4ec6b.jpg",
+    "kind": "eredeti",
+    "sha256": "9c4bf817a42b50842e7aa91530db152a7e2336a18b777ee9fc13a5e4869e7f62",
+    "usages": [
+      {
+        "figmaNodeId": "1:9",
+        "figmaPath": "unsplash:QbHwPe1HE84",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-eukaliptusz-es-szarazviragok.jpg",
+    "figmaImageId": "1958771e595bf103be235f618f6a4d51ca2263a4",
+    "bytes": 287350,
+    "format": "jpg",
+    "oldFile": "képek/figma/1958771e595bf103be235f618f6a4d51ca2263a4.jpg",
+    "kind": "eredeti",
+    "sha256": "92060ab8dd4c5e0c6195e7e32c9f2cf8f0fe903a4f788fdc69af8ec7d9fa30f8",
+    "usages": [
+      {
+        "figmaNodeId": "1:17",
+        "figmaPath": "unsplash:TXH1mpdoJBY",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/moodboard/moodboard-krem-es-gel-allagok.jpg",
+    "figmaImageId": "d3ba326450cdf7a157b8ff554a1909e4cc5f9eea",
+    "bytes": 321110,
+    "format": "jpg",
+    "oldFile": "képek/figma/d3ba326450cdf7a157b8ff554a1909e4cc5f9eea.jpg",
+    "kind": "eredeti",
+    "sha256": "43942e9a4761fd9bdf010d826e3343caf033f7b6633b29e34c798b3798586086",
+    "usages": [
+      {
+        "figmaNodeId": "1:6",
+        "figmaPath": "herokep",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4441",
+        "figmaPath": "Moodboard / Moodboard / Rectangle 36",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/kozos/velemenyek-fruzsi-portre-elonezet.jpg",
+    "figmaImageId": "0f63975d3887fcd6b1cb3100d3679e0cc83ab96b",
+    "bytes": 156670,
+    "format": "jpg",
+    "oldFile": "képek/figma/0f63975d3887fcd6b1cb3100d3679e0cc83ab96b.jpg",
+    "kind": "elonezet",
+    "sha256": "cc1b0c16e42bc1fcd986f48198459b0a067a6e517d2f5260f37fd3106b28d126",
+    "usages": [
+      {
+        "figmaNodeId": "8:412",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Visszajelzés 3 / Frame 46959 / Doboz / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1638",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Visszajelzés 3 / Frame 46959 / Doboz / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/kezelesek/kezelesek-hero-szakertoi-megoldasok-elonezet.jpg",
+    "figmaImageId": "1b9d03602446c033db7510ef56ac98479899a47a",
+    "bytes": 167996,
+    "format": "jpg",
+    "oldFile": "képek/figma/1b9d03602446c033db7510ef56ac98479899a47a.jpg",
+    "kind": "elonezet",
+    "sha256": "e1f210ab7c36a50894d54ba0448f49dbbb36f8291917559f26a0853ce18cb9f3",
+    "usages": [
+      {
+        "figmaNodeId": "8:1379",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 1 / Group 2 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-sotet-kremtegelyek-levelekkel-elonezet.png",
+    "figmaImageId": "32651d99c10e98565b3506e8da59ee2e2e6ac48d",
+    "bytes": 323707,
+    "format": "png",
+    "oldFile": "képek/figma/32651d99c10e98565b3506e8da59ee2e2e6ac48d.png",
+    "kind": "elonezet",
+    "sha256": "269e2ff78fad9a919d7df41eff64476b20a519b202d7c3d2900cd0b467ad1816",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 16
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 17
+      }
+    ]
+  },
+  {
+    "file": "képek/ikonok/fooldal-bortipushoz-igazodok-ikon.png",
+    "figmaImageId": "e3fdd0332d4e43ef9877bbb14b87a00b31af14bd",
+    "bytes": 5640,
+    "format": "png",
+    "oldFile": "képek/figma/e3fdd0332d4e43ef9877bbb14b87a00b31af14bd.png",
+    "kind": "eredeti",
+    "sha256": "d08de7bd25508b9413b0c5a15203103cc1af0a4a18dfd8f5c4c783f244d45831",
+    "usages": [
+      {
+        "figmaNodeId": "8:444",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 2 / Dobozok / Doboz 2 / 3 1",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:444",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 2 / Dobozok / Doboz 2 / 3 1",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4470",
+        "figmaPath": "Moodboard / Group 5 / 3 2",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4470",
+        "figmaPath": "Moodboard / Group 5 / 3 2",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-zold-level-vizcseppekkel.jpg",
+    "figmaImageId": "e10378103159f7106007e610d081d1e32e39c57e",
+    "bytes": 101737,
+    "format": "jpg",
+    "oldFile": "képek/figma/e10378103159f7106007e610d081d1e32e39c57e.jpg",
+    "kind": "eredeti",
+    "sha256": "6af268aef0464aeddfc20e4514f70ad25df922b4b0d0ad5900eb0a8488d5d174",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 14
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 15
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/fooldal/fooldal-hirlevel-arcapolasi-kisokos-elonezet.jpg",
+    "figmaImageId": "3b90f4a019f5344538e3f9ec9a167b441b1d1d71",
+    "bytes": 172066,
+    "format": "jpg",
+    "oldFile": "képek/figma/3b90f4a019f5344538e3f9ec9a167b441b1d1d71.jpg",
+    "kind": "elonezet",
+    "sha256": "34987f6cef78322d21139eecfd1342e7c8792697b28a3bc061a5bfbadcfcbe1b",
+    "usages": [
+      {
+        "figmaNodeId": "8:545",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Hírlevél feliratkozás 11 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4445",
+        "figmaPath": "Moodboard / Moodboard / Rectangle 25",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/kezelesek/kezelesek-eredmenyek-amit-kapsz.jpg",
+    "figmaImageId": "91554e5ae05445a2d2a0cc51303a8da79be06585",
+    "bytes": 10754743,
+    "format": "jpg",
+    "oldFile": "képek/figma/91554e5ae05445a2d2a0cc51303a8da79be06585.jpg",
+    "kind": "eredeti",
+    "sha256": "5816e3a090659d2561d489800873825a0b33147b8677be1fcba985bdb74ffa87",
+    "usages": [
+      {
+        "figmaNodeId": "8:1498",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kép / Szöveg 5 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-krem-es-gel-allagok-02-elonezet.png",
+    "figmaImageId": "4553369633f3ec601b73d9ccc05c0cbfee54942d",
+    "bytes": 104444,
+    "format": "png",
+    "oldFile": "képek/figma/4553369633f3ec601b73d9ccc05c0cbfee54942d.png",
+    "kind": "elonezet",
+    "sha256": "d320e945836aa001c956b8eab5d0f18b57abeaa6dfe8142fa7bc32890c68574c",
+    "usages": [
+      {
+        "figmaNodeId": "1:5",
+        "figmaPath": "unsplash:Z7u2bpbE65Q",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/kozos/velemenyek-fruzsi-portre.jpg",
+    "figmaImageId": "83a3ffaac61100c4e3483b458d07f6e45746ea36",
+    "bytes": 596522,
+    "format": "jpg",
+    "oldFile": "képek/figma/83a3ffaac61100c4e3483b458d07f6e45746ea36.jpg",
+    "kind": "eredeti",
+    "sha256": "dba75f33b9570e8c91548d58d1e75b46591d26dee9211d42977bcc48d1ffa799",
+    "usages": [
+      {
+        "figmaNodeId": "8:412",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Visszajelzés 3 / Frame 46959 / Doboz / Kép",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1638",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Visszajelzés 3 / Frame 46959 / Doboz / Kép",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-barna-kozmetikai-uveg-levelekkel-elonezet.png",
+    "figmaImageId": "06c19d1d5ab17cf283833cb6f0bb749f45611411",
+    "bytes": 144186,
+    "format": "png",
+    "oldFile": "képek/figma/06c19d1d5ab17cf283833cb6f0bb749f45611411.png",
+    "kind": "elonezet",
+    "sha256": "8a3740b17745adc105f18a20f164e8e278caaff605ccf571f4d4c755b333a35d",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 8
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 9
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-eukaliptusz-es-szarazviragok-elonezet.png",
+    "figmaImageId": "245d6d3fada5c5dd3722412f87b65764ca43561b",
+    "bytes": 114435,
+    "format": "png",
+    "oldFile": "képek/figma/245d6d3fada5c5dd3722412f87b65764ca43561b.png",
+    "kind": "elonezet",
+    "sha256": "2b40d96390a89ab99bced8deeeee66ed672bf0cb0f06ee6e1fe5bbcdf56d8468",
+    "usages": [
+      {
+        "figmaNodeId": "1:17",
+        "figmaPath": "unsplash:TXH1mpdoJBY",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/kozos/folyamat-01-idopont-egyeztetes-elonezet.jpg",
+    "figmaImageId": "713fd349405a9fdd645553ed6c0d829c47a81583",
+    "bytes": 145335,
+    "format": "jpg",
+    "oldFile": "képek/figma/713fd349405a9fdd645553ed6c0d829c47a81583.jpg",
+    "kind": "elonezet",
+    "sha256": "75bafc9db0a5e467683696bdfe664c847ad03b66248b44640074305e22b0538a",
+    "usages": [
+      {
+        "figmaNodeId": "8:492",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 31 / Dobozok 3 / Doboz 1 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1669",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kártya 31 / Dobozok 3 / Doboz 1 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/kozos/velemenyek-magdi-portre-elonezet.jpg",
+    "figmaImageId": "1e572ec7741a1c5fe0a47198035c01cc84ae7384",
+    "bytes": 151931,
+    "format": "jpg",
+    "oldFile": "képek/figma/1e572ec7741a1c5fe0a47198035c01cc84ae7384.jpg",
+    "kind": "elonezet",
+    "sha256": "bfe14e67848475f634e225ce72a8d7514fd6093f02135f8cb1912a8ea03cd314",
+    "usages": [
+      {
+        "figmaNodeId": "8:418",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Visszajelzés 3 / Frame 46959 / Doboz / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1644",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Visszajelzés 3 / Frame 46959 / Doboz / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-pampafu.jpg",
+    "figmaImageId": "726871fa20376856b865a46443275e98cce11f4e",
+    "bytes": 371232,
+    "format": "jpg",
+    "oldFile": "képek/figma/726871fa20376856b865a46443275e98cce11f4e.jpg",
+    "kind": "eredeti",
+    "sha256": "0843d5a6780cdfe4202df65641aa02dc356b795a52bb4414a1afb48f7b569391",
+    "usages": [
+      {
+        "figmaNodeId": "1:16",
+        "figmaPath": "unsplash:GlKxYQRbxPo",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/kozos/folyamat-01-idopont-egyeztetes.jpg",
+    "figmaImageId": "75f451ed9b7a6198a3ee495b12d2b24c9f76b156",
+    "bytes": 187200,
+    "format": "jpg",
+    "oldFile": "képek/figma/75f451ed9b7a6198a3ee495b12d2b24c9f76b156.jpg",
+    "kind": "eredeti",
+    "sha256": "4a82b7b963ccd701a4033b6f873ac81f652e4020cdd2d0af906b0ce721d72a2d",
+    "usages": [
+      {
+        "figmaNodeId": "8:492",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 31 / Dobozok 3 / Doboz 1 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1669",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kártya 31 / Dobozok 3 / Doboz 1 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/kezelesek/kezelesek-hero-szakertoi-megoldasok.jpg",
+    "figmaImageId": "a0dbb3ed0d5cc193268f9fb27e179eb546c4cc2c",
+    "bytes": 5681853,
+    "format": "jpg",
+    "oldFile": "képek/figma/a0dbb3ed0d5cc193268f9fb27e179eb546c4cc2c.jpg",
+    "kind": "eredeti",
+    "sha256": "30b1781171beee49e57a5ee3d629505408018e81bd42f0b08ba221dc069f2fec",
+    "usages": [
+      {
+        "figmaNodeId": "8:1379",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 1 / Group 2 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/kezelesek/kezelesek-tovabbi-kezelesek-elonezet.jpg",
+    "figmaImageId": "2c6500d8c18c3a391973766d0ad36e2458545ef6",
+    "bytes": 119719,
+    "format": "jpg",
+    "oldFile": "képek/figma/2c6500d8c18c3a391973766d0ad36e2458545ef6.jpg",
+    "kind": "elonezet",
+    "sha256": "81fe295ca28dd5690679443614fc9966e0757cd4c92e2a5acb98c8caf68d5854",
+    "usages": [
+      {
+        "figmaNodeId": "8:1481",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 4 / Group 3 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-kozmetikai-ampullak-levelen.jpg",
+    "figmaImageId": "da2c19d9599698dc6c4579a53c06a98bc019b084",
+    "bytes": 137368,
+    "format": "jpg",
+    "oldFile": "képek/figma/da2c19d9599698dc6c4579a53c06a98bc019b084.jpg",
+    "kind": "eredeti",
+    "sha256": "af006d75e64913938b2196521e47cd6119242ff9bbebc72b997642e1d4b9f6c7",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 10
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 11
+      }
+    ]
+  },
+  {
+    "file": "képek/rolunk/rolunk-tortenet-eliza-portre.jpg",
+    "figmaImageId": "fedd5d0936bc5f9030ac49373863ce74dd9fae3f",
+    "bytes": 418681,
+    "format": "jpg",
+    "oldFile": "képek/figma/fedd5d0936bc5f9030ac49373863ce74dd9fae3f.jpg",
+    "kind": "eredeti",
+    "sha256": "b54de328e2890b81e730791e7f87cc697dd53fbaba68f0037f2eb1b8414e94de",
+    "usages": [
+      {
+        "figmaNodeId": "8:2482",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Osztott szakasz 8 / Rectangle 10489",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/rolunk/rolunk-a-szalon-elonezet.jpg",
+    "figmaImageId": "a5498cfcf1f1dae194e48cca27be2232222f1c4b",
+    "bytes": 58318,
+    "format": "jpg",
+    "oldFile": "képek/figma/a5498cfcf1f1dae194e48cca27be2232222f1c4b.jpg",
+    "kind": "elonezet",
+    "sha256": "d082bae8c17853bc267d0e9fed0d8b07803e218b758295c9d50a6d7da940ead8",
+    "usages": [
+      {
+        "figmaNodeId": "8:2546",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Kép / Szöveg 2 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-arckezeles-szerummal-elonezet.png",
+    "figmaImageId": "29c8bba3c5db6d89fea68e23f168a133c7cf22ed",
+    "bytes": 113105,
+    "format": "png",
+    "oldFile": "képek/figma/29c8bba3c5db6d89fea68e23f168a133c7cf22ed.png",
+    "kind": "elonezet",
+    "sha256": "51955fead7df3f675a4592a24b603ddfc0d0e105251c5ea9795380392db6689b",
+    "usages": [
+      {
+        "figmaNodeId": "1:13",
+        "figmaPath": "unsplash:2OVrIfOXDDY",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "logók/favicon-figma-512.png",
+    "figmaImageId": "fb9a12857ac213c762ca7e1c591c27cc7fb04d06",
+    "bytes": 13038,
+    "format": "png",
+    "oldFile": "képek/figma/fb9a12857ac213c762ca7e1c591c27cc7fb04d06.png",
+    "kind": "eredeti",
+    "sha256": "fbf2403059edaae9ed9f36a8bdb3280aec40921a1608955dcfe7674b5d46d53d",
+    "usages": [
+      {
+        "figmaNodeId": "8:4343",
+        "figmaPath": "Arculati tábla / Embléma / eliza beauty salon favikon 1",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4343",
+        "figmaPath": "Arculati tábla / Embléma / eliza beauty salon favikon 1",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/moodboard/minta-kozmetikus-weboldal-2-elonezet.jpg",
+    "figmaImageId": "f05a2bf9604331c00a04d43a7bd9b2623e8cf7fa",
+    "bytes": 64875,
+    "format": "jpg",
+    "oldFile": "képek/figma/f05a2bf9604331c00a04d43a7bd9b2623e8cf7fa.jpg",
+    "kind": "elonezet",
+    "sha256": "58e633c03d92bac77e5c6e9a0209051a1ec0a91d1b2405bc1136dd335798f054",
+    "usages": [
+      {
+        "figmaNodeId": "8:4464",
+        "figmaPath": "Moodboard / minta_kozmetikus_weboldal2 1",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/ikonok/fooldal-exkluziv-kornyezet-ikon.png",
+    "figmaImageId": "6fa2b57a8003e3139929463b346fa4815bd03764",
+    "bytes": 4486,
+    "format": "png",
+    "oldFile": "képek/figma/6fa2b57a8003e3139929463b346fa4815bd03764.png",
+    "kind": "eredeti",
+    "sha256": "773b6b8d5958ac2132da904f3c3c96552a0ffdff23f9d79651252b9a5a082702",
+    "usages": [
+      {
+        "figmaNodeId": "8:456",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 2 / Dobozok / Doboz 5 / 6 3",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:456",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 2 / Dobozok / Doboz 5 / 6 3",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4469",
+        "figmaPath": "Moodboard / Group 5 / 6 4",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4469",
+        "figmaPath": "Moodboard / Group 5 / 6 4",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-kozmetikumok-krem-es-cseppentos-uveg-elonezet.png",
+    "figmaImageId": "7191e0af60393280c1b6eb5f6656604de8826405",
+    "bytes": 79919,
+    "format": "png",
+    "oldFile": "képek/figma/7191e0af60393280c1b6eb5f6656604de8826405.png",
+    "kind": "elonezet",
+    "sha256": "ba0c2d3f9dfe49deb7f55f50ca23cae34786eb5d5d0d10b1970068438ca76043",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 1
+      }
+    ]
+  },
+  {
+    "file": "képek/kapcsolat/kapcsolat-hero.jpg",
+    "figmaImageId": "1aed9ee7d4f26307b78c8d848eb86a717d5e3fd6",
+    "bytes": 7026223,
+    "format": "jpg",
+    "oldFile": "képek/figma/1aed9ee7d4f26307b78c8d848eb86a717d5e3fd6.jpg",
+    "kind": "eredeti",
+    "sha256": "81049627e4d82a5dc1b6412d57fe26cdc534dafc7acf1234c7d7efdea4f5dbef",
+    "usages": [
+      {
+        "figmaNodeId": "8:3377",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Kapcsolat 9 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4465",
+        "figmaPath": "Moodboard / pexels-goksutaymaz-33242625 2",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/kezelesek/kezelesek-tovabbi-kezelesek.jpg",
+    "figmaImageId": "00f9cf0a504e6fa23821f165270d1fa4e4b01fea",
+    "bytes": 337984,
+    "format": "jpg",
+    "oldFile": "képek/figma/00f9cf0a504e6fa23821f165270d1fa4e4b01fea.jpg",
+    "kind": "eredeti",
+    "sha256": "4cabe9f8cb8deb38209b445859d9b4ae64b4e72e23540be548c6169ba7a649fa",
+    "usages": [
+      {
+        "figmaNodeId": "8:1481",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 4 / Group 3 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/fooldal/fooldal-bemutatkozas-eliza-portre-elonezet.jpg",
+    "figmaImageId": "d78ab8023deaa684f3fb4a74f290047014ebfb68",
+    "bytes": 62211,
+    "format": "jpg",
+    "oldFile": "képek/figma/d78ab8023deaa684f3fb4a74f290047014ebfb68.jpg",
+    "kind": "elonezet",
+    "sha256": "5b2657f184d44b5f08d9c49b60b3cb1a09322eaabc1f95ade574d15e6655eaf6",
+    "usages": [
+      {
+        "figmaNodeId": "8:461",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kép / Szöveg 14 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/kozos/folyamat-03-kozmetikai-kezeles.jpg",
+    "figmaImageId": "7852a83626afb544ece6db1c5d8c8eabe2b44f65",
+    "bytes": 5438699,
+    "format": "jpg",
+    "oldFile": "képek/figma/7852a83626afb544ece6db1c5d8c8eabe2b44f65.jpg",
+    "kind": "eredeti",
+    "sha256": "10ea5ba079e264b381a9002da407abf83461645162a95058320c87ac7a5ec886",
+    "usages": [
+      {
+        "figmaNodeId": "8:500",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 31 / Dobozok 3 / Doboz 3 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1677",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kártya 31 / Dobozok 3 / Doboz 3 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4443",
+        "figmaPath": "Moodboard / Moodboard / Rectangle 34",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/ikonok/fooldal-elegedettsegi-garancia-ikon.png",
+    "figmaImageId": "097637d7fce3bf5ad2466b28b76bce4cc54b4d6b",
+    "bytes": 5542,
+    "format": "png",
+    "oldFile": "képek/figma/097637d7fce3bf5ad2466b28b76bce4cc54b4d6b.png",
+    "kind": "eredeti",
+    "sha256": "bf46173343add227ebed2a914a8d52878f5b13fa1b24f22328c815f842bb9732",
+    "usages": [
+      {
+        "figmaNodeId": "8:452",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 2 / Dobozok / Doboz 4 / 4 102981",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:452",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 2 / Dobozok / Doboz 4 / 4 102981",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4471",
+        "figmaPath": "Moodboard / Group 5 / 4 102982",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4471",
+        "figmaPath": "Moodboard / Group 5 / 4 102982",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/kozos/folyamat-02-diagnosztika-kezelesi-terv.jpg",
+    "figmaImageId": "d56b88edcb9de80411c8d777750d9890896f0563",
+    "bytes": 6064637,
+    "format": "jpg",
+    "oldFile": "képek/figma/d56b88edcb9de80411c8d777750d9890896f0563.jpg",
+    "kind": "eredeti",
+    "sha256": "643439713a2aac1b76cbe272f14cde3e11e6f5de6ab7aaaa62f56981b48dd8c6",
+    "usages": [
+      {
+        "figmaNodeId": "8:496",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 31 / Dobozok 3 / Doboz 2 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1673",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kártya 31 / Dobozok 3 / Doboz 2 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/ikonok/kezelesek-akne-gyulladasok-hegek-ikon.png",
+    "figmaImageId": "477dc9fa0897e97fdfd3d8d6114e9a1ed29fe6db",
+    "bytes": 13811,
+    "format": "png",
+    "oldFile": "képek/figma/477dc9fa0897e97fdfd3d8d6114e9a1ed29fe6db.png",
+    "kind": "eredeti",
+    "sha256": "e1358d54eaf5498530be213c3a2c0384a83db1c99e1e2b6dce685cd9ed23693a",
+    "usages": [
+      {
+        "figmaNodeId": "8:1404",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kártya 2 / Dobozok / Doboz 2 / tonic 1",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1404",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kártya 2 / Dobozok / Doboz 2 / tonic 1",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/dekoracio/kozos-leveldekoracio-zold-elonezet.png",
+    "figmaImageId": "ce875cba07b69e25eccd5a5ea2465b8b19d39422",
+    "bytes": 41067,
+    "format": "png",
+    "oldFile": "képek/figma/ce875cba07b69e25eccd5a5ea2465b8b19d39422.png",
+    "kind": "elonezet",
+    "sha256": "119464904f3ee76e433bb383e59a974491359b34348c559bb8583436e2934f82",
+    "usages": [
+      {
+        "figmaNodeId": "8:406",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Hero 1 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:438",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Visszajelzés 3 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:487",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:519",
+        "figmaPath": "Drótváz és Typframe / Főoldal / CTA 4 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:594",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kapcsolat 9 / Tartalom / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1245",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1257",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1269",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1391",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 1 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1438",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 2 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1462",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 3 / Tartalom / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1493",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 4 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1554",
+        "figmaPath": "Drótváz és Typframe / Kezelések / CTA 4 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1664",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Visszajelzés 3 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2345",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Lábléc / Tartalom / Doboz 3 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2476",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Hero 1 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2511",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Osztott szakasz 8 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2544",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Egyoszlopos 11 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2563",
+        "figmaPath": "Drótváz és Typframe / Rólunk / CTA 4 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:3239",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Lábléc / Tartalom / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:3376",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Kapcsolat 9 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:3928",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / GYIK 3 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4081",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Lábléc / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4093",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4462",
+        "figmaPath": "Moodboard / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-krem-es-gel-allagok-02.jpg",
+    "figmaImageId": "f41df05ab1bfd9798773fde6b04f915e0bd514be",
+    "bytes": 377417,
+    "format": "jpg",
+    "oldFile": "képek/figma/f41df05ab1bfd9798773fde6b04f915e0bd514be.jpg",
+    "kind": "eredeti",
+    "sha256": "74a982b54c70176feb112d2086d039d7c4bbcd46ab0207c08119b98cbdef576d",
+    "usages": [
+      {
+        "figmaNodeId": "1:5",
+        "figmaPath": "unsplash:Z7u2bpbE65Q",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-noi-portre-kek-ingben.jpg",
+    "figmaImageId": "9f320ed2409875fb82aa9d3b747a9ac932b31387",
+    "bytes": 764150,
+    "format": "jpg",
+    "oldFile": "képek/figma/9f320ed2409875fb82aa9d3b747a9ac932b31387.jpg",
+    "kind": "eredeti",
+    "sha256": "df75505418a310d8e16b4b20c5b472d803c4023e05b1d075b206c1f3b7436dce",
+    "usages": [
+      {
+        "figmaNodeId": "1:14",
+        "figmaPath": "unsplash:UFd_bRmLn1k",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/ikonok/fooldal-fajdalommentes-kezelesek-ikon.png",
+    "figmaImageId": "d7b620af7bdb9f0cf172de75d6a823da1a3c11c6",
+    "bytes": 4516,
+    "format": "png",
+    "oldFile": "képek/figma/d7b620af7bdb9f0cf172de75d6a823da1a3c11c6.png",
+    "kind": "eredeti",
+    "sha256": "8d116218585840ae2a82979baf4d4175ef1b07fbe160c69b763c73b01c1f4124",
+    "usages": [
+      {
+        "figmaNodeId": "8:448",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 2 / Dobozok / Doboz 6 / 5 13",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:448",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 2 / Dobozok / Doboz 6 / 5 13",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4468",
+        "figmaPath": "Moodboard / Group 5 / 5 14",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4468",
+        "figmaPath": "Moodboard / Group 5 / 5 14",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/kezelesek/kezelesek-belico-arckezelesek-elonezet.jpg",
+    "figmaImageId": "b8648a8c21237b9b626f10cf28ac5f71639853ba",
+    "bytes": 192670,
+    "format": "jpg",
+    "oldFile": "képek/figma/b8648a8c21237b9b626f10cf28ac5f71639853ba.jpg",
+    "kind": "elonezet",
+    "sha256": "fc9a437d031405acf598ed9bd601282a071936c2c13277568823bb4ad18d88b3",
+    "usages": [
+      {
+        "figmaNodeId": "8:1426",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 2 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/moodboard/moodboard-naturkozmetikumok.jpg",
+    "figmaImageId": "10072226511256296196e63c4e045f61b127a85c",
+    "bytes": 6249945,
+    "format": "jpg",
+    "oldFile": "képek/figma/10072226511256296196e63c4e045f61b127a85c.jpg",
+    "kind": "eredeti",
+    "sha256": "12e3cc91aa12dc82482a05022d00ebe5e473b1adc7b0ac140022ed99456cef08",
+    "usages": [
+      {
+        "figmaNodeId": "8:4444",
+        "figmaPath": "Moodboard / Moodboard / Rectangle 35",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/kezelesek/kezelesek-mesotica-luxus-kezelesek-elonezet.jpg",
+    "figmaImageId": "0beb5b1893fdb8ab6d0bbcadbf09510d6aaa2285",
+    "bytes": 175137,
+    "format": "jpg",
+    "oldFile": "képek/figma/0beb5b1893fdb8ab6d0bbcadbf09510d6aaa2285.jpg",
+    "kind": "elonezet",
+    "sha256": "51e82cf6208fc6728f803c985d8b8740cac854b29ef637f944cc1dfa287ea7e0",
+    "usages": [
+      {
+        "figmaNodeId": "8:1440",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 3 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/kezelesek/kezelesek-mesotica-luxus-kezelesek.jpg",
+    "figmaImageId": "fc0b060d0fd3b1d29469700836d2f392d608aa84",
+    "bytes": 7027596,
+    "format": "jpg",
+    "oldFile": "képek/figma/fc0b060d0fd3b1d29469700836d2f392d608aa84.jpg",
+    "kind": "eredeti",
+    "sha256": "e0c4f594330de993b2e1662836de8f28c5809fec5457dd9964957b88adbe2cf8",
+    "usages": [
+      {
+        "figmaNodeId": "8:1440",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 3 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/kezelesek/kezelesek-eredmenyek-amit-kapsz-elonezet.jpg",
+    "figmaImageId": "7fc004de02003c63cb1379b56a9b04fb2592b8d2",
+    "bytes": 169249,
+    "format": "jpg",
+    "oldFile": "képek/figma/7fc004de02003c63cb1379b56a9b04fb2592b8d2.jpg",
+    "kind": "elonezet",
+    "sha256": "7ea16ce3f30317ff2772b660d2490dda2bbe56f83f57da99dc7f52178223952c",
+    "usages": [
+      {
+        "figmaNodeId": "8:1498",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kép / Szöveg 5 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-szerumos-uveg-szarazviragokkal-elonezet.png",
+    "figmaImageId": "577dc0717a4d2133b969a709ad9326af0632f226",
+    "bytes": 115794,
+    "format": "png",
+    "oldFile": "képek/figma/577dc0717a4d2133b969a709ad9326af0632f226.png",
+    "kind": "elonezet",
+    "sha256": "088f086d7c9597c20370a1653584adb8a348ef2f1c4f28e2455394be880e260d",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 6
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 7
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-noi-profil-levelekkel.jpg",
+    "figmaImageId": "7dd053f20c3b3c3df724f1fd86560ad9b8ae2e65",
+    "bytes": 134745,
+    "format": "jpg",
+    "oldFile": "képek/figma/7dd053f20c3b3c3df724f1fd86560ad9b8ae2e65.jpg",
+    "kind": "eredeti",
+    "sha256": "fb5a243fabe7988bcd96dd5a2c171cfa5f2a90be2ecd934f1dfe9c6bac01a23e",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 12
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 13
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/kapcsolat/kapcsolat-hero-elonezet.jpg",
+    "figmaImageId": "9ae70c8d3cd52cad2a447d9b6f6991d1bd6a1918",
+    "bytes": 197945,
+    "format": "jpg",
+    "oldFile": "képek/figma/9ae70c8d3cd52cad2a447d9b6f6991d1bd6a1918.jpg",
+    "kind": "elonezet",
+    "sha256": "2ce3adb62f0054c25b509dd0cce3b2e8003382747fc226a85327f9ff92b729f7",
+    "usages": [
+      {
+        "figmaNodeId": "8:3377",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Kapcsolat 9 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4465",
+        "figmaPath": "Moodboard / pexels-goksutaymaz-33242625 2",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-feher-kremtegely-novenyekkel.jpg",
+    "figmaImageId": "bd7202bfa3058d1439c43f750d597e939d60f0e2",
+    "bytes": 69897,
+    "format": "jpg",
+    "oldFile": "képek/figma/bd7202bfa3058d1439c43f750d597e939d60f0e2.jpg",
+    "kind": "eredeti",
+    "sha256": "177b8db729819c33bbcc2e7d952381e9e4272a40b2fe17588845b3a3c87c8bea",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 18
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "image",
+        "paintIndex": 19
+      }
+    ]
+  },
+  {
+    "file": "képek/rolunk/rolunk-hero-a-borod-egeszsege.jpg",
+    "figmaImageId": "07d0dddc7777b1207ba197b414ccc737317bced0",
+    "bytes": 10514725,
+    "format": "jpg",
+    "oldFile": "képek/figma/07d0dddc7777b1207ba197b414ccc737317bced0.jpg",
+    "kind": "eredeti",
+    "sha256": "09ebc51b540d5062d2b7018fd5c3e18ff634a43c91535132a61cf5c641486beb",
+    "usages": [
+      {
+        "figmaNodeId": "8:2464",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Hero 1 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/dekoracio/kozos-leveldekoracio-feher.png",
+    "figmaImageId": "6043411b56019c5d7903f6d6fb8653843f86a771",
+    "bytes": 42387,
+    "format": "png",
+    "oldFile": "képek/figma/6043411b56019c5d7903f6d6fb8653843f86a771.png",
+    "kind": "eredeti",
+    "sha256": "7ae7cb1553b209c235578b08027f4fb8ba89a306464046d829dce1eb17a4e8e8",
+    "usages": [
+      {
+        "figmaNodeId": "8:403",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Hero 1 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:435",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Visszajelzés 3 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:484",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:516",
+        "figmaPath": "Drótváz és Typframe / Főoldal / CTA 4 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:591",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kapcsolat 9 / Tartalom / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1242",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1254",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1266",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1388",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 1 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1435",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 2 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1459",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 3 / Tartalom / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1490",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 4 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1551",
+        "figmaPath": "Drótváz és Typframe / Kezelések / CTA 4 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1661",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Visszajelzés 3 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2342",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Lábléc / Tartalom / Doboz 3 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2473",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Hero 1 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2508",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Osztott szakasz 8 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2541",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Egyoszlopos 11 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2560",
+        "figmaPath": "Drótváz és Typframe / Rólunk / CTA 4 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:3236",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Lábléc / Tartalom / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:3373",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Kapcsolat 9 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:3925",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / GYIK 3 / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4078",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Lábléc / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4090",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4459",
+        "figmaPath": "Moodboard / Clip path group / Group / Mask group / Group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/dekoracio/kozos-leveldekoracio-zold.png",
+    "figmaImageId": "7a52014b09b33f7531e06b0e6accbab8fdad4acd",
+    "bytes": 290290,
+    "format": "png",
+    "oldFile": "képek/figma/7a52014b09b33f7531e06b0e6accbab8fdad4acd.png",
+    "kind": "eredeti",
+    "sha256": "b95e9347dd617aad290ee2a1bd23da848714f25e01a99f523f29f54b7fbc87c5",
+    "usages": [
+      {
+        "figmaNodeId": "8:406",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Hero 1 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:438",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Visszajelzés 3 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:487",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:519",
+        "figmaPath": "Drótváz és Typframe / Főoldal / CTA 4 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:594",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kapcsolat 9 / Tartalom / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1245",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1257",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1269",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1391",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 1 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1438",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 2 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1462",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 3 / Tartalom / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1493",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Hero 4 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1554",
+        "figmaPath": "Drótváz és Typframe / Kezelések / CTA 4 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1664",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Visszajelzés 3 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2345",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Lábléc / Tartalom / Doboz 3 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2476",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Hero 1 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2511",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Osztott szakasz 8 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2544",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Egyoszlopos 11 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:2563",
+        "figmaPath": "Drótváz és Typframe / Rólunk / CTA 4 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:3239",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Lábléc / Tartalom / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:3376",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Kapcsolat 9 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:3928",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / GYIK 3 / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4081",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Lábléc / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4093",
+        "figmaPath": "Drótváz és Typframe / Kapcsolat / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4462",
+        "figmaPath": "Moodboard / Clip path group / Group / Mask group / Group / Group / Rectangle",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/fooldal/fooldal-hero-szemelyre-szabott-kezelesek.jpg",
+    "figmaImageId": "d7f7372c9e5d308b89427e6ff02758a70d826c4d",
+    "bytes": 3375125,
+    "format": "jpg",
+    "oldFile": "képek/figma/d7f7372c9e5d308b89427e6ff02758a70d826c4d.jpg",
+    "kind": "eredeti",
+    "sha256": "f955f377c44be8a998a39f1c2f23f337078b40e2a772c9123c6d11552a9ce1f3",
+    "usages": [
+      {
+        "figmaNodeId": "8:394",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Hero 1 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4463",
+        "figmaPath": "Moodboard / vecteezy_beautiful-woman-with-perfect-skin-wearing-a-towel-on-her_57331562 1",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/rolunk/rolunk-hero-a-borod-egeszsege-elonezet.jpg",
+    "figmaImageId": "028d98d1440c077b5b7dce59a051ed6141f7c05b",
+    "bytes": 157512,
+    "format": "jpg",
+    "oldFile": "képek/figma/028d98d1440c077b5b7dce59a051ed6141f7c05b.jpg",
+    "kind": "elonezet",
+    "sha256": "e2294a4de66e47c5898c0c025b836996f84bf484be661b414c3b219847d5847b",
+    "usages": [
+      {
+        "figmaNodeId": "8:2464",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Hero 1 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/kozos/folyamat-03-kozmetikai-kezeles-elonezet.jpg",
+    "figmaImageId": "7910a92fa82c18c2300e366158f25a94bab9bb67",
+    "bytes": 174773,
+    "format": "jpg",
+    "oldFile": "képek/figma/7910a92fa82c18c2300e366158f25a94bab9bb67.jpg",
+    "kind": "elonezet",
+    "sha256": "cc7ed256c79bf3ccfeb6e8d8abd9abf391a9b385f25338d389b7d548f3770e80",
+    "usages": [
+      {
+        "figmaNodeId": "8:500",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kártya 31 / Dobozok 3 / Doboz 3 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:1677",
+        "figmaPath": "Drótváz és Typframe / Kezelések / Kártya 31 / Dobozok 3 / Doboz 3 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4443",
+        "figmaPath": "Moodboard / Moodboard / Rectangle 34",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-feher-kremtegely-novenyekkel-elonezet.png",
+    "figmaImageId": "20c22175b8a9458a58a8d7d4faa4be46c4393278",
+    "bytes": 128992,
+    "format": "png",
+    "oldFile": "képek/figma/20c22175b8a9458a58a8d7d4faa4be46c4393278.png",
+    "kind": "elonezet",
+    "sha256": "7a863c54536471bd5f1f8307220d2d8667a3c67498d93ac9dbf851005845df78",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 18
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 19
+      }
+    ]
+  },
+  {
+    "file": "képek/fooldal/fooldal-hirlevel-arcapolasi-kisokos.jpg",
+    "figmaImageId": "cc390306afb361ed5052ea564e5da2c90367781d",
+    "bytes": 5111319,
+    "format": "jpg",
+    "oldFile": "képek/figma/cc390306afb361ed5052ea564e5da2c90367781d.jpg",
+    "kind": "eredeti",
+    "sha256": "e399f7fd2b4aff01d8bdb22b42ad4d2b931a596f996ca54320b38729ac8c1e8f",
+    "usages": [
+      {
+        "figmaNodeId": "8:545",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Hírlevél feliratkozás 11 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4445",
+        "figmaPath": "Moodboard / Moodboard / Rectangle 25",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/fooldal/fooldal-hero-szemelyre-szabott-kezelesek-elonezet.jpg",
+    "figmaImageId": "45ba4058339be69fd2611661b3610f200770cca8",
+    "bytes": 130831,
+    "format": "jpg",
+    "oldFile": "képek/figma/45ba4058339be69fd2611661b3610f200770cca8.jpg",
+    "kind": "elonezet",
+    "sha256": "ab1e7d55523b82c535ca0b9f2e2091cd3088fd549fde426663fba1d1d9b976f1",
+    "usages": [
+      {
+        "figmaNodeId": "8:394",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Hero 1 / Kép",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4463",
+        "figmaPath": "Moodboard / vecteezy_beautiful-woman-with-perfect-skin-wearing-a-towel-on-her_57331562 1",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/rolunk/rolunk-a-szalon.jpg",
+    "figmaImageId": "af1ad0a1ec1b27396b916edd2ecdb0d67af01744",
+    "bytes": 409679,
+    "format": "jpg",
+    "oldFile": "képek/figma/af1ad0a1ec1b27396b916edd2ecdb0d67af01744.jpg",
+    "kind": "eredeti",
+    "sha256": "a8ffd6fc787a76b1d5025b024565c83f3e6f03a646aec95e4c4cab40e4e14833",
+    "usages": [
+      {
+        "figmaNodeId": "8:2546",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Kép / Szöveg 2 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-krem-es-gel-allagok-01-elonezet.png",
+    "figmaImageId": "61ef6d72b09f7a65b4a01bd06f0490febf1bc16a",
+    "bytes": 121532,
+    "format": "png",
+    "oldFile": "képek/figma/61ef6d72b09f7a65b4a01bd06f0490febf1bc16a.png",
+    "kind": "elonezet",
+    "sha256": "982177e935a642a7268fc8761e517d2faa6753f7d5769b64b2902e195bd1a081",
+    "usages": [
+      {
+        "figmaNodeId": "1:9",
+        "figmaPath": "unsplash:QbHwPe1HE84",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-arckezeles-szerummal.jpg",
+    "figmaImageId": "88b524665bd650f0ce29d7bf2077f0fd730da8e9",
+    "bytes": 225321,
+    "format": "jpg",
+    "oldFile": "képek/figma/88b524665bd650f0ce29d7bf2077f0fd730da8e9.jpg",
+    "kind": "eredeti",
+    "sha256": "b1894333c30e0d2bde136087f0888f60b8cef950beddc343bb1437b87afebffb",
+    "usages": [
+      {
+        "figmaNodeId": "1:13",
+        "figmaPath": "unsplash:2OVrIfOXDDY",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/fooldal/fooldal-bemutatkozas-eliza-portre.jpg",
+    "figmaImageId": "a1161606dd2bea50a7918a06e6c68c3376535534",
+    "bytes": 448330,
+    "format": "jpg",
+    "oldFile": "képek/figma/a1161606dd2bea50a7918a06e6c68c3376535534.jpg",
+    "kind": "eredeti",
+    "sha256": "4c03a86e32e7f6044e91d9ce5041804a6358621cb1823180d4eb89aee1d3cfbe",
+    "usages": [
+      {
+        "figmaNodeId": "8:461",
+        "figmaPath": "Drótváz és Typframe / Főoldal / Kép / Szöveg 14 / Kép",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/moodboard/moodboard-krem-es-gel-allagok-elonezet.png",
+    "figmaImageId": "128bca0c2f3c22d238f59b1e0242fbdee1a431c0",
+    "bytes": 100513,
+    "format": "png",
+    "oldFile": "képek/figma/128bca0c2f3c22d238f59b1e0242fbdee1a431c0.png",
+    "kind": "elonezet",
+    "sha256": "ae1535baf93b3b48665ac00d8d6b36805955861ca2ca4e3c9c4c04770df4bbbe",
+    "usages": [
+      {
+        "figmaNodeId": "1:6",
+        "figmaPath": "herokep",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      },
+      {
+        "figmaNodeId": "8:4441",
+        "figmaPath": "Moodboard / Moodboard / Rectangle 36",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-bambusz-eszkozok-es-termeszetes-alapanyagok-elonezet.png",
+    "figmaImageId": "ca27f9acf03bee3a180f97c7d0ef792d766b8fc9",
+    "bytes": 140303,
+    "format": "png",
+    "oldFile": "képek/figma/ca27f9acf03bee3a180f97c7d0ef792d766b8fc9.png",
+    "kind": "elonezet",
+    "sha256": "60c613184f3d039940b279841da80e8461f91bd775ab9290723f24901f610287",
+    "usages": [
+      {
+        "figmaNodeId": "1:7",
+        "figmaPath": "unsplash:LrYlDNZD4qU",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/rolunk/rolunk-tortenet-eliza-portre-elonezet.jpg",
+    "figmaImageId": "47cd7d0ada09d119fac352ef88a0ad900842b74a",
+    "bytes": 62639,
+    "format": "jpg",
+    "oldFile": "képek/figma/47cd7d0ada09d119fac352ef88a0ad900842b74a.jpg",
+    "kind": "elonezet",
+    "sha256": "b04a9a4a2e4d345146846901016d169be43aebd0150148ff7f6aacc623e5ab1a",
+    "usages": [
+      {
+        "figmaNodeId": "8:2482",
+        "figmaPath": "Drótváz és Typframe / Rólunk / Osztott szakasz 8 / Rectangle 10489",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/moodboard/moodboard-naturkozmetikumok-elonezet.jpg",
+    "figmaImageId": "6dd9dc4dacecd2c4a33d5aa0b07a4cf4ac67ca4a",
+    "bytes": 180213,
+    "format": "jpg",
+    "oldFile": "képek/figma/6dd9dc4dacecd2c4a33d5aa0b07a4cf4ac67ca4a.jpg",
+    "kind": "elonezet",
+    "sha256": "028da3391babd3aa62775b475f5a7f3d4380559b500a7b49845145ddb037a6a0",
+    "usages": [
+      {
+        "figmaNodeId": "8:4444",
+        "figmaPath": "Moodboard / Moodboard / Rectangle 35",
+        "role": "imageThumbnail",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/forraskepek/forras-krem-es-gel-allagok-03.jpg",
+    "figmaImageId": "8d51f7108e2d6a5b952efda9ee2b1b1ccbf3d161",
+    "bytes": 398316,
+    "format": "jpg",
+    "oldFile": "képek/figma/8d51f7108e2d6a5b952efda9ee2b1b1ccbf3d161.jpg",
+    "kind": "eredeti",
+    "sha256": "e49aa119b47a392e7edd72efe90cb8007ab573cb0e9bb10036fb1aee4421dd84",
+    "usages": [
+      {
+        "figmaNodeId": "1:15",
+        "figmaPath": "unsplash:GeG4U-lAF10",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/elonezetek/forraskepek/forras-zold-level-vizcseppekkel-elonezet.png",
+    "figmaImageId": "528e48ec4a3426077182910a51b68d21802fdea0",
+    "bytes": 127697,
+    "format": "png",
+    "oldFile": "képek/figma/528e48ec4a3426077182910a51b68d21802fdea0.png",
+    "kind": "elonezet",
+    "sha256": "62df3d7a79cd2dc00cf21ae86742510e02ecbc5923238a6355b8c8569867a722",
+    "usages": [
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 14
+      },
+      {
+        "figmaNodeId": "1:18",
+        "figmaPath": "Pexels Photo by RDNE Stock project",
+        "role": "imageThumbnail",
+        "paintIndex": 15
+      }
+    ]
+  },
+  {
+    "file": "képek/moodboard/moodboard-zold-level-textura.jpg",
+    "figmaImageId": "270f5f2c6aef5bc1c50bbfa313e67d7c79bb2c91",
+    "bytes": 12547557,
+    "format": "jpg",
+    "oldFile": "képek/figma/270f5f2c6aef5bc1c50bbfa313e67d7c79bb2c91.jpg",
+    "kind": "eredeti",
+    "sha256": "080a944cc4448c7e152cc765ecfee8f58be8fb137e221f8851622d2d0d6acea0",
+    "usages": [
+      {
+        "figmaNodeId": "8:4439",
+        "figmaPath": "Moodboard / Moodboard / Rectangle 40",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  },
+  {
+    "file": "képek/moodboard/minta-kozmetikus-weboldal-2.jpg",
+    "figmaImageId": "08611b528286b54b8b61921c56c4bbcfc1eef9a5",
+    "bytes": 121970,
+    "format": "jpg",
+    "oldFile": "képek/figma/08611b528286b54b8b61921c56c4bbcfc1eef9a5.jpg",
+    "kind": "eredeti",
+    "sha256": "3c3d5e4bcdf43283f50d9b6794214c7c5a4f4bd74ddadf8bee221b20c0519f18",
+    "usages": [
+      {
+        "figmaNodeId": "8:4464",
+        "figmaPath": "Moodboard / minta_kozmetikus_weboldal2 1",
+        "role": "image",
+        "paintIndex": 0
+      }
+    ]
+  }
+]

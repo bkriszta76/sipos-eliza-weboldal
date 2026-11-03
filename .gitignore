@@ -1,0 +1,18 @@
+# Helyben megőrzött nagy forrásarchívumok
+*.fig
+*.zip
+# Letöltött segédeszközök és ideiglenes fájlok
+.tools/
+node_modules/
+.netlify/
+dist/
+# Helyi hitelesítési és környezeti adatok
+.env
+.env.*
+!.env.example
+# A munkához küldött személyes képernyőképek
+/mail_github.png
+/codex-clipboard-*.png
+# Operációs rendszer fájljai
+Thumbs.db
+.DS_Store
