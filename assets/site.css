@@ -77,3 +77,7 @@ body{overflow-x:clip}.wrap{width:min(1260px,87.5%)}.header-inner{min-height:88px
 .values-botanical{width:520px;left:-250px;top:-175px;transform:rotate(30deg)}
 @media(max-width:1050px){.about-story-grid{grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:32px}.about-story .qualifications{grid-column:1/-1;grid-template-columns:1fr 1fr;margin-top:8px}.story-botanical{right:-180px}}
 @media(max-width:760px){.about-story-grid{grid-template-columns:1fr}.about-story-photo{width:min(100%,390px);margin:auto}.about-story .qualifications{grid-template-columns:1fr;grid-column:auto;max-width:390px;width:100%;margin:0 auto}.story-botanical{width:280px;right:-145px;top:-145px}.values-botanical{width:300px;left:-200px;top:-120px}.values .values-list li{padding-left:40px}.values .values-list{gap:24px}}
+
+/* Contact: Figma botanical decorations behind the content. */
+.contact-page-intro{position:relative;overflow:hidden}.contact-page-intro>.wrap{position:relative;z-index:1}.contact-hero-botanical{width:300px;left:-160px;top:-340px;transform:rotate(35deg)}.contact-photo-botanical{width:720px;right:-145px;bottom:-310px;transform:rotate(-55deg);opacity:.12}
+@media(max-width:760px){.contact-hero-botanical{width:220px;left:-125px;top:-280px}.contact-photo-botanical{width:470px;right:-140px;bottom:-210px}}
